@@ -1,0 +1,170 @@
+{
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Get in Touch",
+      "bn": "যোগাযোগ করুন"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Contact",
+      "bn": "যোগাযোগ"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "Reach the academy for programs, publications, venue bookings or general inquiries.",
+      "bn": "কর্মসূচি, প্রকাশনা, ভেন্যু বুকিং অথবা সাধারণ জিজ্ঞাসার জন্য একাডেমীর সাথে যোগাযোগ করুন।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Text",
+      "en": "Contact Information",
+      "bn": "যোগাযোগের তথ্য"
+    },
+    {
+      "id": "t5",
+      "_where": "Section 2 · Text",
+      "en": "Address",
+      "bn": "ঠিকানা"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 2 · Text",
+      "en": "[Official Address], Dhaka, Bangladesh",
+      "bn": "[অফিসিয়াল ঠিকানা], ঢাকা, বাংলাদেশ"
+    },
+    {
+      "id": "t7",
+      "_where": "Section 2 · Text",
+      "en": "Phone",
+      "bn": "ফোন"
+    },
+    {
+      "id": "t8",
+      "_where": "Section 2 · Paragraph",
+      "text": "[+880-XX-XXXXXXX]"
+    },
+    {
+      "id": "t9",
+      "_where": "Section 2 · Text",
+      "en": "Email",
+      "bn": "ইমেইল"
+    },
+    {
+      "id": "t10",
+      "_where": "Section 2 · Paragraph",
+      "text": "[info@nazrulacademy.example]"
+    },
+    {
+      "id": "t11",
+      "_where": "Section 2 · Text",
+      "en": "Office Hours",
+      "bn": "অফিস সময়"
+    },
+    {
+      "id": "t12",
+      "_where": "Section 2 · Text",
+      "en": "Sunday – Thursday",
+      "bn": "রবিবার – বৃহস্পতিবার"
+    },
+    {
+      "id": "t13",
+      "_where": "Section 2 · Table cell",
+      "text": "[9:00 AM – 5:00 PM]"
+    },
+    {
+      "id": "t14",
+      "_where": "Section 2 · Text",
+      "en": "Friday – Saturday",
+      "bn": "শুক্রবার – শনিবার"
+    },
+    {
+      "id": "t15",
+      "_where": "Section 2 · Text",
+      "en": "Closed",
+      "bn": "বন্ধ"
+    },
+    {
+      "id": "t16",
+      "_where": "Section 2 · Paragraph",
+      "en": "Prototype form — messages are not sent anywhere yet.",
+      "bn": "প্রোটোটাইপ ফর্ম — বার্তা এখনো কোথাও পাঠানো হয় না।"
+    },
+    {
+      "id": "t17",
+      "_where": "Section 2 · Text",
+      "en": "Send a Message",
+      "bn": "বার্তা পাঠান"
+    },
+    {
+      "id": "t18",
+      "_where": "Section 2 · Form message",
+      "en": "Thank you — this is a prototype, so no message has actually been sent.",
+      "bn": "ধন্যবাদ — এটি একটি প্রোটোটাইপ, তাই কোনো বার্তা প্রকৃতপক্ষে পাঠানো হয়নি।"
+    },
+    {
+      "id": "t19",
+      "_where": "Section 2 · Form label",
+      "en": "Name",
+      "bn": "নাম"
+    },
+    {
+      "id": "t20",
+      "_where": "Section 2 · Form label",
+      "en": "Phone",
+      "bn": "ফোন নম্বর"
+    },
+    {
+      "id": "t21",
+      "_where": "Section 2 · Form label",
+      "en": "Email",
+      "bn": "ইমেইল"
+    },
+    {
+      "id": "t22",
+      "_where": "Section 2 · Form label",
+      "en": "Subject",
+      "bn": "বিষয়"
+    },
+    {
+      "id": "t23",
+      "_where": "Section 2 · Form label",
+      "en": "Message",
+      "bn": "বার্তা"
+    },
+    {
+      "id": "t24",
+      "_where": "Section 2 · Text",
+      "en": "Send Message",
+      "bn": "বার্তা পাঠান"
+    }
+  ],
+  "images": [
+    {
+      "id": "i1",
+      "_where": "Section 2 · Photo placeholder",
+      "src": "",
+      "alt": ""
+    }
+  ],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Contact",
+      "description": "Contact Nazrul Academy."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Get in Touch"
+    },
+    {
+      "_n": 2,
+      "_title": "Contact Information"
+    }
+  ]
+}

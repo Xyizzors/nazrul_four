@@ -1,0 +1,111 @@
+{
+  "works": [
+    {
+      "title_en": "Essay Series",
+      "title_bn": "প্রবন্ধ সিরিজ",
+      "year": "1918-1950",
+      "desc_en": "Collected essays on literature, society and culture.",
+      "desc_bn": "সাহিত্য, সমাজ এবং সংস্কৃতি সম্পর্কে সংগৃহীত প্রবন্ধ।"
+    },
+    {
+      "title_en": "",
+      "title_bn": "নাটকীয় রচনা",
+      "year": "1920-1935",
+      "desc_en": "Plays combining social commentary with artistic vision.",
+      "desc_bn": "সামাজিক মন্তব্যকে শৈল্পিক দৃষ্টিভঙ্গির সাথে একত্রিত করা নাটক।"
+    },
+    {
+      "title_en": "Lyrical Poetry",
+      "title_bn": "গীতিকাব্য",
+      "year": "1915-1945",
+      "desc_en": "Songs and verses celebrating love, freedom and nature.",
+      "desc_bn": "প্রেম, স্বাধীনতা এবং প্রকৃতি উদযাপন করে গান এবং কবিতা।"
+    },
+    {
+      "title_en": "Satirical Writings",
+      "title_bn": "ব্যঙ্গাত্মক রচনা",
+      "year": "1920-1948",
+      "desc_en": "Sharp-witted critiques of social and political issues.",
+      "desc_bn": "সামাজিক এবং রাজনৈতিক সমস্যার তীক্ষ্ণ সমালোচনা।"
+    },
+    {
+      "title_en": "Literary Journalism",
+      "title_bn": "সাহিত্য সাংবাদিকতা",
+      "year": "1919-1950",
+      "desc_en": "Editorial columns and journalistic pieces by Nazrul.",
+      "desc_bn": "নজরুলের সম্পাদকীয় কলাম এবং সাংবাদিক রচনা।"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "REMOVE",
+      "bn": "REMOVE PAGE"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Paragraph",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t5",
+      "_where": "Section 2 · Text",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t6",
+      "_where": "Section 3 · Paragraph",
+      "en": "Nazrul Academy maintains an extensive collection of his published works, including original manuscripts, critical editions and translations in multiple languages. Researchers and literature enthusiasts can access these materials through our library and digital archive.",
+      "bn": "নজরুল একাডেমী তার প্রকাশিত কাজগুলির একটি বিস্তৃত সংগ্রহ বজায় রাখে, যার মধ্যে রয়েছে মূল পাণ্ডুলিপি, সমালোচনামূলক সংস্করণ এবং একাধিক ভাষায় অনুবাদ। গবেষকরা এবং সাহিত্য উৎসাহীরা আমাদের লাইব্রেরি এবং ডিজিটাল আর্কাইভের মাধ্যমে এই উপকরণগুলি অ্যাক্সেস করতে পারেন।"
+    },
+    {
+      "id": "t7",
+      "_where": "Section 3 · Text",
+      "en": "Access the Collection",
+      "bn": "সংগ্রহ অ্যাক্সেস করুন"
+    },
+    {
+      "id": "t8",
+      "_where": "Section 3 · Text",
+      "en": "Visit Our Library",
+      "bn": "আমাদের লাইব্রেরি পরিদর্শন করুন"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Prose and Poems",
+      "description": "A comprehensive collection of Nazrul's literary works."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Literary Heritage"
+    },
+    {
+      "_n": 2,
+      "_title": "Literary Genres"
+    },
+    {
+      "_n": 3,
+      "_title": "Access the Collection"
+    }
+  ]
+}

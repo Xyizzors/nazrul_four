@@ -1,0 +1,135 @@
+{
+  "branches": [
+    {
+      "name_en": "Dhaka Headquarters",
+      "name_bn": "ঢাকা সদর দপ্তর",
+      "location_en": "Dhaka",
+      "location_bn": "ঢাকা",
+      "est": "1968",
+      "programs_en": "All programs",
+      "programs_bn": "সমস্ত কর্মসূচি"
+    },
+    {
+      "name_en": "Chittagong Branch",
+      "name_bn": "চট্টগ্রাম শাখা",
+      "location_en": "Chittagong",
+      "location_bn": "চট্টগ্রাম",
+      "est": "1995",
+      "programs_en": "Music & literature",
+      "programs_bn": "সংগীত ও সাহিত্য"
+    },
+    {
+      "name_en": "Sylhet Branch",
+      "name_bn": "সিলেট শাখা",
+      "location_en": "Sylhet",
+      "location_bn": "সিলেট",
+      "est": "2005",
+      "programs_en": "Cultural programs",
+      "programs_bn": "সাংস্কৃতিক কর্মসূচি"
+    },
+    {
+      "name_en": "Khulna Center",
+      "name_bn": "খুলনা কেন্দ্র",
+      "location_en": "Khulna",
+      "location_bn": "খুলনা",
+      "est": "2010",
+      "programs_en": "Workshops & events",
+      "programs_bn": "কর্মশালা ও অনুষ্ঠান"
+    },
+    {
+      "name_en": "Rajshahi Office",
+      "name_bn": "রাজশাহী অফিস",
+      "location_en": "Rajshahi",
+      "location_bn": "রাজশাহী",
+      "est": "2015",
+      "programs_en": "Educational initiatives",
+      "programs_bn": "শিক্ষামূলক উদ্যোগ"
+    },
+    {
+      "name_en": "Barisal Desk",
+      "name_bn": "বরিশাল ডেস্ক",
+      "location_en": "Barisal",
+      "location_bn": "বরিশাল",
+      "est": "2018",
+      "programs_en": "Community outreach",
+      "programs_bn": "সম্প্রদায় সংযোগ"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Our Network",
+      "bn": "আমাদের নেটওয়ার্ক"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Our Branches",
+      "bn": "আমাদের শাখা"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "Extending Nazrul Academy's cultural mission across Bangladesh.",
+      "bn": "বাংলাদেশজুড়ে নজরুল একাডেমীর সাংস্কৃতিক মিশন প্রসারিত করা।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Paragraph",
+      "en": "With branches across major cities and regions in Bangladesh, Nazrul Academy brings cultural programs, educational initiatives and literary activities closer to communities nationwide.",
+      "bn": "বাংলাদেশের প্রধান শহর এবং অঞ্চলে শাখা সহ, নজরুল একাডেমী সাংস্কৃতিক কর্মসূচি, শিক্ষামূলক উদ্যোগ এবং সাহিত্য কার্যক্রম সারাদেশের সম্প্রদায়ের কাছে নিয়ে আসে।"
+    },
+    {
+      "id": "t5",
+      "_where": "Section 2 · Text",
+      "en": "Nationwide Presence",
+      "bn": "দেশব্যাপী উপস্থিতি"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 2 · Text",
+      "text": "Est."
+    },
+    {
+      "id": "t7",
+      "_where": "Section 3 · Paragraph",
+      "en": "Each branch of Nazrul Academy maintains its own local office and coordination team. For information about programs, events and activities in your region, please contact the nearest branch office directly. [Contact information to be populated for each branch]",
+      "bn": "নজরুল একাডেমীর প্রতিটি শাখা নিজস্ব স্থানীয় অফিস এবং সমন্বয় দল রক্ষণাবেক্ষণ করে। আপনার অঞ্চলে কর্মসূচি, অনুষ্ঠান এবং কার্যক্রম সম্পর্কে তথ্যের জন্য, অনুগ্রহ করে নিকটতম শাখা অফিসে সরাসরি যোগাযোগ করুন। [প্রতিটি শাখার জন্য যোগাযোগ তথ্য পূরণ করা হবে]"
+    },
+    {
+      "id": "t8",
+      "_where": "Section 3 · Text",
+      "en": "Branch Contacts",
+      "bn": "শাখার যোগাযোগ"
+    },
+    {
+      "id": "t9",
+      "_where": "Section 3 · Text",
+      "en": "Find a Branch Near You",
+      "bn": "আপনার কাছাকাছি একটি শাখা খুঁজুন"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Our Branches",
+      "description": "Nazrul Academy branches across Bangladesh."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Our Network"
+    },
+    {
+      "_n": 2,
+      "_title": "Nationwide Presence"
+    },
+    {
+      "_n": 3,
+      "_title": "Branch Contacts"
+    }
+  ]
+}

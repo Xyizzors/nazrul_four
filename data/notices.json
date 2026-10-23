@@ -1,0 +1,59 @@
+{
+  "notices": [],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Announcements",
+      "bn": "ঘোষণা"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Notice Board",
+      "bn": "বিজ্ঞপ্তি বোর্ড"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "Official announcements and circulars from Nazrul Academy.",
+      "bn": "নজরুল একাডেমীর অফিসিয়াল ঘোষণা ও প্রজ্ঞাপন।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Paragraph",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t5",
+      "_where": "Section 2 · Text",
+      "en": "Notice",
+      "bn": "বিজ্ঞপ্তি"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 2 · Text",
+      "en": "Download",
+      "bn": "ডাউনলোড"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Notice Board",
+      "description": "Official notices and circulars from Nazrul Academy."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Announcements"
+    },
+    {
+      "_n": 2,
+      "_title": "Sample notices shown for the prototype. The final notice boa"
+    }
+  ]
+}

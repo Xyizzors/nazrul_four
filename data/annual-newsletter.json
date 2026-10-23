@@ -1,0 +1,100 @@
+{
+  "newsletters": [
+    {
+      "year": "2026",
+      "title_en": "Annual Report 2026",
+      "title_bn": "বার্ষিক প্রতিবেদন ২০২৬",
+      "desc_en": "An overview of programs, events and cultural initiatives from 2026.",
+      "desc_bn": "২০২৬ সালের কর্মসূচি, অনুষ্ঠান এবং সাংস্কৃতিক উদ্যোগের একটি পর্যালোচনা।"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Publications",
+      "bn": "প্রকাশনা"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Annual Newsletter",
+      "bn": "বার্ষিক নিউজলেটার"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "Comprehensive annual reports documenting Nazrul Academy's work and achievements.",
+      "bn": "নজরুল একাডেমীর কাজ এবং অর্জন নথিভুক্ত করে ব্যাপক বার্ষিক প্রতিবেদন।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Paragraph",
+      "en": "Our annual newsletters and reports provide transparent documentation of the academy's programs, achievements and impact. Each publication highlights the year's cultural initiatives, educational programs and community engagement.",
+      "bn": "আমাদের বার্ষিক নিউজলেটার এবং প্রতিবেদন একাডেমীর কর্মসূচি, অর্জন এবং প্রভাবের স্বচ্ছ নথিকরণ প্রদান করে। প্রতিটি প্রকাশনা বছরের সাংস্কৃতিক উদ্যোগ, শিক্ষামূলক কর্মসূচি এবং সম্প্রদায় সংযোগ হাইলাইট করে।"
+    },
+    {
+      "id": "t5",
+      "_where": "Section 2 · Text",
+      "en": "Publications Archive",
+      "bn": "প্রকাশনা আর্কাইভ"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 2 · Paragraph",
+      "en": "Annual Report",
+      "bn": "বার্ষিক প্রতিবেদন"
+    },
+    {
+      "id": "t7",
+      "_where": "Section 2 · Text",
+      "en": "Download PDF",
+      "bn": "ডাউনলোড করুন"
+    },
+    {
+      "id": "t8",
+      "_where": "Section 3 · Paragraph",
+      "en": "Stay informed about Nazrul Academy's latest initiatives and achievements. Subscribe to our mailing list to receive the annual newsletter and regular updates about our cultural programs and events.",
+      "bn": "নজরুল একাডেমীর সর্বশেষ উদ্যোগ এবং অর্জন সম্পর্কে অবগত থাকুন। আমাদের মেইলিং তালিকায় সাবস্ক্রাইব করুন বার্ষিক নিউজলেটার এবং আমাদের সাংস্কৃতিক কর্মসূচি ও অনুষ্ঠান সম্পর্কে নিয়মিত আপডেট পেতে।"
+    },
+    {
+      "id": "t9",
+      "_where": "Section 3 · Text",
+      "en": "Subscribe to Updates",
+      "bn": "আপডেটের জন্য সাবস্ক্রাইব করুন"
+    },
+    {
+      "id": "t10",
+      "_where": "Section 3 · Text",
+      "en": "Subscribe",
+      "bn": "সাবস্ক্রাইব করুন"
+    },
+    {
+      "id": "email_ph",
+      "_where": "Newsletter signup · email box placeholder",
+      "text": "Your email address"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Annual Newsletter",
+      "description": "Nazrul Academy's annual newsletters and reports."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Publications"
+    },
+    {
+      "_n": 2,
+      "_title": "Publications Archive"
+    },
+    {
+      "_n": 3,
+      "_title": "Subscribe to Updates"
+    }
+  ]
+}

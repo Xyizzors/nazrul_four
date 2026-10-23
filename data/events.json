@@ -1,0 +1,131 @@
+{
+  "upcoming": [],
+  "past": [
+    {
+      "en": "Children's Summer Cultural Camp",
+      "bn": "শিশুদের গ্রীষ্মকালীন সাংস্কৃতিক ক্যাম্প",
+      "date": "20–30 Jun 2026",
+      "photo": "/assets/img/gallery/event-45.jpg"
+    },
+    {
+      "en": "Tabla for Beginners",
+      "bn": "তবলা শিক্ষা (শিক্ষার্থী পর্যায়)",
+      "date": "Starts 3 Jun 2026",
+      "photo": "/assets/img/gallery/event-21.jpg"
+    },
+    {
+      "en": "Annual Nazrul Jayanti",
+      "bn": "বার্ষিক নজরুল জয়ন্তী",
+      "date": "25 May 2026",
+      "photo": "/assets/img/gallery/event-17.jpg"
+    },
+    {
+      "en": "Poetry Reading Evening",
+      "bn": "কবিতা পাঠের সন্ধ্যা",
+      "date": "24 Apr 2026",
+      "photo": "/assets/img/gallery/event-48.jpg"
+    },
+    {
+      "en": "Nazrul Sangeet Workshop",
+      "bn": "নজরুল সংগীত কর্মশালা",
+      "date": "12–18 Apr 2026",
+      "photo": "/assets/img/gallery/event-19.jpg"
+    },
+    {
+      "en": "Annual Winter Cultural Fair",
+      "bn": "বার্ষিক শীতকালীন সাংস্কৃতিক মেলা",
+      "date": "14 Dec 2025",
+      "photo": "/assets/img/gallery/event-54.jpg"
+    },
+    {
+      "en": "Nazrul Academy Journal Launch",
+      "bn": "নজরুল একাডেমী জার্নাল উন্মোচন",
+      "date": "03 Nov 2025",
+      "photo": "/assets/img/gallery/event-01.jpg"
+    },
+    {
+      "en": "National Poetry Festival Collaboration",
+      "bn": "জাতীয় কবিতা উৎসব সহযোগিতা",
+      "date": "18 Oct 2025",
+      "photo": "/assets/img/gallery/event-16.jpg"
+    },
+    {
+      "en": "Autumn Music Recital",
+      "bn": "শরৎকালীন সংগীত পরিবেশনা",
+      "date": "29 Sep 2025",
+      "photo": "/assets/img/gallery/event-46.jpg"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Page · Text",
+      "en": "Upcoming",
+      "bn": "আসন্ন"
+    },
+    {
+      "id": "t2",
+      "_where": "Page · Text",
+      "en": "Past",
+      "bn": "সমাপ্ত"
+    },
+    {
+      "id": "t3",
+      "_where": "Page · Text",
+      "en": "Details",
+      "bn": "বিস্তারিত"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 1 · Small label",
+      "en": "Calendar",
+      "bn": "অনুষ্ঠান তালিকা"
+    },
+    {
+      "id": "t5",
+      "_where": "Section 1 · Heading",
+      "en": "Events",
+      "bn": "অনুষ্ঠানসূচি"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 1 · Paragraph",
+      "en": "Upcoming performances and celebrations, plus a record of past events.",
+      "bn": "আসন্ন পরিবেশনা ও উদযাপন, সাথে অতীত অনুষ্ঠানের একটি তালিকা।"
+    },
+    {
+      "id": "t7",
+      "_where": "Section 2 · Text",
+      "en": "Upcoming Events",
+      "bn": "আসন্ন অনুষ্ঠান"
+    },
+    {
+      "id": "t8",
+      "_where": "Section 3 · Text",
+      "en": "Past Events",
+      "bn": "অতীত অনুষ্ঠান"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Events",
+      "description": "Nazrul Academy — preserving the legacy of the national poet, Kazi Nazrul Islam."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Calendar"
+    },
+    {
+      "_n": 2,
+      "_title": "Upcoming Events"
+    },
+    {
+      "_n": 3,
+      "_title": "Past Events"
+    }
+  ]
+}

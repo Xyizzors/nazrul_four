@@ -1,0 +1,151 @@
+{
+  "courses": [
+    {
+      "en": "Vocal Music (Nazrul Sangeet)",
+      "bn": "কণ্ঠসংগীত (নজরুল সংগীত)"
+    },
+    {
+      "en": "Instrumental Music",
+      "bn": "যন্ত্রসংগীত"
+    },
+    {
+      "en": "Classical & Folk Dance",
+      "bn": "শাস্ত্রীয় ও লোকনৃত্য"
+    },
+    {
+      "en": "Recitation & Elocution",
+      "bn": "আবৃত্তি ও উচ্চারণ শিক্ষা"
+    }
+  ],
+  "steps": [
+    {
+      "en": "Choose a course and review the schedule",
+      "bn": "একটি কোর্স নির্বাচন করুন এবং সময়সূচি দেখুন"
+    },
+    {
+      "en": "Download and complete the application form",
+      "bn": "আবেদন ফর্ম ডাউনলোড করে পূরণ করুন"
+    },
+    {
+      "en": "Submit required documents to the admission office",
+      "bn": "প্রয়োজনীয় কাগজপত্র ভর্তি কার্যালয়ে জমা দিন"
+    },
+    {
+      "en": "Attend a short orientation session before classes begin",
+      "bn": "ক্লাস শুরুর আগে সংক্ষিপ্ত পরিচিতি অধিবেশনে অংশ নিন"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Join the Academy",
+      "bn": "একাডেমীতে যোগ দিন"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Admission",
+      "bn": "ভর্তি"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "Guidance for prospective students on courses, eligibility and the application process.",
+      "bn": "সম্ভাব্য শিক্ষার্থীদের জন্য কোর্স, যোগ্যতা ও আবেদন প্রক্রিয়া সংক্রান্ত নির্দেশনা।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Paragraph",
+      "en": "Nazrul Academy welcomes students of all ages to its music, dance and recitation courses.",
+      "bn": "নজরুল একাডেমী সকল বয়সের শিক্ষার্থীদের সংগীত, নৃত্য ও আবৃত্তি কোর্সে স্বাগত জানায়।"
+    },
+    {
+      "id": "t5",
+      "_where": "Section 2 · Text",
+      "en": "Introduction",
+      "bn": "পরিচিতি"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 2 · Text",
+      "en": "Learn Music, Dance & Recitation",
+      "bn": "সংগীত, নৃত্য ও আবৃত্তি শিখুন"
+    },
+    {
+      "id": "t7",
+      "_where": "Section 2 · Text",
+      "en": "Download Form",
+      "bn": "ফর্ম ডাউনলোড করুন"
+    },
+    {
+      "id": "t9",
+      "_where": "Section 3 · Text",
+      "en": "Available Courses",
+      "bn": "উপলব্ধ কোর্সসমূহ"
+    },
+    {
+      "id": "t10",
+      "_where": "Section 3 · Text",
+      "en": "Course Placeholders",
+      "bn": "কোর্স তালিকা"
+    },
+    {
+      "id": "t11",
+      "_where": "Section 3 · Paragraph",
+      "en": "[Schedule & fee placeholder]",
+      "bn": "[সময়সূচি ও ফি নমুনা]"
+    },
+    {
+      "id": "t12",
+      "_where": "Section 4 · Text",
+      "en": "How to Apply",
+      "bn": "আবেদন প্রক্রিয়া"
+    },
+    {
+      "id": "t13",
+      "_where": "Section 4 · Text",
+      "en": "Admission Process",
+      "bn": "ভর্তি প্রক্রিয়া"
+    },
+    {
+      "id": "t14",
+      "_where": "Section 4 · Text",
+      "en": "Download Form",
+      "bn": "ফর্ম ডাউনলোড করুন"
+    }
+  ],
+  "images": [
+    {
+      "id": "i1",
+      "_where": "Section 2 · Photo placeholder",
+      "src": "",
+      "alt": ""
+    }
+  ],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Admission",
+      "description": "Admission information for Nazrul Academy's courses."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Join the Academy"
+    },
+    {
+      "_n": 2,
+      "_title": "Introduction"
+    },
+    {
+      "_n": 3,
+      "_title": "Available Courses"
+    },
+    {
+      "_n": 4,
+      "_title": "How to Apply"
+    }
+  ]
+}

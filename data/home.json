@@ -1,0 +1,454 @@
+{
+  "items": [
+    {
+      "en": "Nazrul Sangeet Workshop",
+      "bn": "নজরুল সংগীত কর্মশালা",
+      "date": "12 – 18 Apr 2026",
+      "tag": "program",
+      "desc_en": "A hands-on workshop covering the fundamentals of Nazrul Sangeet vocal technique.",
+      "desc_bn": "নজরুল সংগীতের মৌলিক কণ্ঠশৈলী নিয়ে একটি হাতে-কলমে কর্মশালা।",
+      "photo": "/assets/img/gallery/event-19.jpg"
+    },
+    {
+      "en": "Poetry Reading Evening",
+      "bn": "কবিতা পাঠের সন্ধ্যা",
+      "date": "24 Apr 2026",
+      "tag": "event",
+      "desc_en": "An evening of readings from Nazrul's celebrated poems, open to the public.",
+      "desc_bn": "নজরুলের বিখ্যাত কবিতা থেকে পাঠের সন্ধ্যা, সবার জন্য উন্মুক্ত।",
+      "photo": "/assets/img/gallery/event-48.jpg"
+    },
+    {
+      "en": "Annual Nazrul Jayanti",
+      "bn": "বার্ষিক নজরুল জয়ন্তী",
+      "date": "25 May 2026",
+      "tag": "event",
+      "desc_en": "A full-day celebration of the poet's birth anniversary with music and discussion.",
+      "desc_bn": "সংগীত ও আলোচনার মাধ্যমে কবির জন্মবার্ষিকী উদযাপনের দিনব্যাপী আয়োজন।",
+      "photo": "/assets/img/gallery/event-17.jpg"
+    },
+    {
+      "en": "Tabla for Beginners",
+      "bn": "তবলা শিক্ষা (শিক্ষার্থী পর্যায়)",
+      "date": "Starts 3 Jun 2026",
+      "tag": "program",
+      "desc_en": "A ten-week introductory course in tabla, open to new students.",
+      "desc_bn": "নতুন শিক্ষার্থীদের জন্য দশ সপ্তাহের তবলা শিক্ষার প্রাথমিক কোর্স।",
+      "photo": "/assets/img/gallery/event-21.jpg"
+    }
+  ],
+  "pubs": [
+    {
+      "title_en": "Nazrul Rachanabali (Vol. 1)",
+      "title_bn": "নজরুল রচনাবলী (১ম খণ্ড)",
+      "auth": "[Editor Name]",
+      "photo": ""
+    },
+    {
+      "title_en": "Selected Songs of Nazrul",
+      "title_bn": "নজরুল সংগীত সংকলন",
+      "auth": "[Editor Name]",
+      "photo": ""
+    },
+    {
+      "title_en": "Essays on the National Poet",
+      "title_bn": "জাতীয় কবি বিষয়ক প্রবন্ধ",
+      "auth": "[Author Name]",
+      "photo": ""
+    },
+    {
+      "title_en": "Nazrul Academy Journal 2025",
+      "title_bn": "নজরুল একাডেমী জার্নাল ২০২৫",
+      "auth": "[Editorial Board]",
+      "photo": ""
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "heroSection · Paragraph",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t2",
+      "_where": "heroSection · Text",
+      "en": "Nazrul Academy · Dhaka · Est. 1968",
+      "bn": "নজরুল একাডেমী · ঢাকা · প্রতিষ্ঠা ১৯৬৮"
+    },
+    {
+      "id": "t3",
+      "_where": "heroSection · Text",
+      "text": "Dedicated to the study, promotion, dissemination, and research of the musical and literary works of the national poet"
+    },
+    {
+      "id": "t4",
+      "_where": "heroSection · Text",
+      "text": " Kazi Nazrul Islam."
+    },
+    {
+      "id": "t5",
+      "_where": "heroSection · Text",
+      "text": "জাতীয় কবি কাজী নজরুল ইসলাম এর সঙ্গীত ও সাহিত্যিক সৃষ্টিকর্ম চর্চা, প্রচার-প্রসার ও গবেষণায় নিবেদিত পথিকৃৎ , দেশের প্রাচীনতম প্রতিষ্ঠান নজরুল একাডেমী।"
+    },
+    {
+      "id": "t6",
+      "_where": "heroSection · Text",
+      "en": "Discover Nazrul Academy",
+      "bn": "একাডেমী সম্পর্কে জানুন"
+    },
+    {
+      "id": "t7",
+      "_where": "heroSection · Text",
+      "en": "View Programs",
+      "bn": "কর্মসূচি দেখুন"
+    },
+    {
+      "id": "t8",
+      "_where": "heroSection · Text",
+      "text": ""
+    },
+    {
+      "id": "t9",
+      "_where": "heroSection · Text",
+      "text": ""
+    },
+    {
+      "id": "t10",
+      "_where": "heroSection · Text",
+      "en": "Portrait of Kazi Nazrul Islam — placeholder",
+      "bn": "কাজী নজরুল ইসলামের প্রতিকৃতি — নমুনা"
+    },
+    {
+      "id": "t11",
+      "_where": "heroSection · Paragraph",
+      "en": "\"I am the ever-rebellious, weary of struggle...\"",
+      "bn": "\"আমি চির-বিদ্রোহী বীর... \""
+    },
+    {
+      "id": "t12",
+      "_where": "heroSection · Text",
+      "en": "Bidrohi (excerpt)",
+      "bn": "বিদ্রোহী (অংশ)"
+    },
+    {
+      "id": "t13",
+      "_where": "aboutPreview · Paragraph",
+      "en": "Nazrul Academy is a cultural institution in Dhaka dedicated to preserving and promoting the legacy of Kazi Nazrul Islam. Since 1968, it has organised cultural programs, poetry readings, music performances, workshops and educational activities for the public.",
+      "bn": "নজরুল একাডেমী ঢাকার একটি সাংস্কৃতিক প্রতিষ্ঠান, যা কাজী নজরুল ইসলামের ঐতিহ্য সংরক্ষণ ও প্রচারে নিবেদিত। ১৯৬৮ সাল থেকে এটি সাংস্কৃতিক অনুষ্ঠান, কবিতা পাঠ, সংগীত পরিবেশনা, কর্মশালা এবং শিক্ষামূলক কার্যক্রম আয়োজন করে আসছে।"
+    },
+    {
+      "id": "t14",
+      "_where": "aboutPreview · Text",
+      "en": "About the Academy",
+      "bn": "একাডেমী সম্পর্কে"
+    },
+    {
+      "id": "t15",
+      "_where": "aboutPreview · Text",
+      "en": "A home for Bengali literature, music and the performing arts",
+      "bn": "বাংলা সাহিত্য, সংগীত ও পরিবেশন শিল্পের একটি আবাসস্থল"
+    },
+    {
+      "id": "t16",
+      "_where": "aboutPreview · Text",
+      "en": "Learn More",
+      "bn": "আরও জানুন"
+    },
+    {
+      "id": "t17",
+      "_where": "noticesSection · Text",
+      "en": "Stay Informed",
+      "bn": "সর্বশেষ তথ্য"
+    },
+    {
+      "id": "t18",
+      "_where": "noticesSection · Text",
+      "en": "Latest Notices",
+      "bn": "সাম্প্রতিক বিজ্ঞপ্তি"
+    },
+    {
+      "id": "t19",
+      "_where": "noticesSection · Text",
+      "en": "All Notices",
+      "bn": "সব বিজ্ঞপ্তি"
+    },
+    {
+      "id": "t20",
+      "_where": "noticesSection · Text",
+      "en": "Notice",
+      "bn": "বিজ্ঞপ্তি"
+    },
+    {
+      "id": "t21",
+      "_where": "noticesSection · Text",
+      "en": "· sample notice",
+      "bn": "· নমুনা বিজ্ঞপ্তি"
+    },
+    {
+      "id": "t22",
+      "_where": "noticesSection · Text",
+      "en": "View",
+      "bn": "দেখুন"
+    },
+    {
+      "id": "t23",
+      "_where": "programsSection · Text",
+      "en": "What's On",
+      "bn": "আসন্ন আয়োজন"
+    },
+    {
+      "id": "t24",
+      "_where": "programsSection · Text",
+      "en": "Upcoming Programs & Events",
+      "bn": "আসন্ন কর্মসূচি ও অনুষ্ঠান"
+    },
+    {
+      "id": "t25",
+      "_where": "programsSection · Text",
+      "en": "All Events",
+      "bn": "সব অনুষ্ঠান"
+    },
+    {
+      "id": "t26",
+      "_where": "programsSection · Text",
+      "en": "Event",
+      "bn": "অনুষ্ঠান"
+    },
+    {
+      "id": "t27",
+      "_where": "programsSection · Text",
+      "en": "Program",
+      "bn": "কর্মসূচি"
+    },
+    {
+      "id": "t28",
+      "_where": "programsSection · Text",
+      "en": "Details",
+      "bn": "বিস্তারিত"
+    },
+    {
+      "id": "t29",
+      "_where": "activitiesSection · Text",
+      "en": "Recent Activity",
+      "bn": "সাম্প্রতিক কার্যক্রম"
+    },
+    {
+      "id": "t30",
+      "_where": "activitiesSection · Text",
+      "en": "From the Academy",
+      "bn": "একাডেমীর প্রাঙ্গণ থেকে"
+    },
+    {
+      "id": "t31",
+      "_where": "activitiesSection · Text",
+      "en": "All Activities",
+      "bn": "সব কার্যক্রম"
+    },
+    {
+      "id": "t32",
+      "_where": "publicationsSection · Text",
+      "en": "Archive",
+      "bn": "প্রকাশনা সংগ্রহ"
+    },
+    {
+      "id": "t33",
+      "_where": "publicationsSection · Text",
+      "en": "Publications",
+      "bn": "প্রকাশনা"
+    },
+    {
+      "id": "t34",
+      "_where": "publicationsSection · Text",
+      "en": "Browse All",
+      "bn": "সব দেখুন"
+    },
+    {
+      "id": "t35",
+      "_where": "publicationsSection · Text",
+      "en": "View Details",
+      "bn": "বিস্তারিত দেখুন"
+    },
+    {
+      "id": "t36",
+      "_where": "nazrulCornerSection · Text",
+      "en": "Portrait placeholder",
+      "bn": "প্রতিকৃতি নমুনা"
+    },
+    {
+      "id": "t37",
+      "_where": "nazrulCornerSection · Paragraph",
+      "en": "A poet, musician and freedom fighter whose verses gave voice to humanism and love. His songs — Nazrul Sangeet — remain central to Bengali cultural life.",
+      "bn": "একজন কবি, সংগীতজ্ঞ ও মুক্তিসংগ্রামী, যাঁর কবিতা মানবতাবাদ ও প্রেমের কণ্ঠস্বর হয়ে উঠেছিল। তাঁর সংগীত — নজরুল সংগীত — আজও বাঙালি সাংস্কৃতিক জীবনের কেন্দ্রে রয়েছে।"
+    },
+    {
+      "id": "t38",
+      "_where": "nazrulCornerSection · Text",
+      "en": "Nazrul Corner",
+      "bn": "নজরুল কর্ণার"
+    },
+    {
+      "id": "t39",
+      "_where": "nazrulCornerSection · Text",
+      "en": "Kazi Nazrul Islam, the National Poet",
+      "bn": "কাজী নজরুল ইসলাম, জাতীয় কবি"
+    },
+    {
+      "id": "t40",
+      "_where": "nazrulCornerSection · Paragraph",
+      "en": "\"I am the ever-rebellious, weary of struggle, I stand alone on this earth...\"",
+      "bn": "\"আমি চির-বিদ্রোহী বীর — বিশ্ব ছাড়ায়ে উঠিয়াছি একা চির-উন্নত মম শির!\""
+    },
+    {
+      "id": "t41",
+      "_where": "nazrulCornerSection · Text",
+      "en": "— from \"Bidrohi\" (sample excerpt)",
+      "bn": "— \"বিদ্রোহী\" থেকে (নমুনা অংশ)"
+    },
+    {
+      "id": "t42",
+      "_where": "nazrulCornerSection · Text",
+      "en": "Explore Nazrul Corner",
+      "bn": "নজরুল কর্ণার ঘুরে দেখুন"
+    },
+    {
+      "id": "t43",
+      "_where": "nazrulCornerSection · Text",
+      "en": "Poetry & Songs",
+      "bn": "কবিতা ও সংগীত"
+    },
+    {
+      "id": "t44",
+      "_where": "heritageSection · Paragraph",
+      "en": "Established in 1968, Nazrul Academy has spent decades cultivating Bengali literature, music and the performing arts — building an institutional home for the study and celebration of Kazi Nazrul Islam's work.",
+      "bn": "১৯৬৮ সালে প্রতিষ্ঠিত নজরুল একাডেমী কয়েক দশক ধরে বাংলা সাহিত্য, সংগীত ও পরিবেশন শিল্প চর্চায় নিবেদিত রয়েছে — কাজী নজরুল ইসলামের কর্ম নিয়ে গবেষণা ও উদযাপনের একটি প্রাতিষ্ঠানিক ভিত্তি গড়ে তুলেছে।"
+    },
+    {
+      "id": "t45",
+      "_where": "heritageSection · Text",
+      "en": "Since 1968",
+      "bn": "১৯৬৮ সাল থেকে"
+    },
+    {
+      "id": "t46",
+      "_where": "heritageSection · Text",
+      "en": "Our Heritage",
+      "bn": "আমাদের ঐতিহ্য"
+    },
+    {
+      "id": "t47",
+      "_where": "heritageSection · Text",
+      "en": "Explore Our Heritage",
+      "bn": "আমাদের ঐতিহ্য দেখুন"
+    },
+    {
+      "id": "t48",
+      "_where": "gallerySection · Text",
+      "en": "Moments",
+      "bn": "মুহূর্তসমূহ"
+    },
+    {
+      "id": "t49",
+      "_where": "gallerySection · Text",
+      "en": "Gallery",
+      "bn": "গ্যালারি"
+    }
+  ],
+  "images": [
+    {
+      "id": "i1",
+      "_where": "heroSection · Photo",
+      "src": "/assets/img/brand/nazrul-portrait.png",
+      "alt": "Portrait of Kazi Nazrul Islam"
+    },
+    {
+      "id": "i2",
+      "_where": "aboutPreview · Photo placeholder",
+      "src": "/assets/img/gallery/event-06.jpg",
+      "alt": "A Nazrul Utsab programme at Nazrul Academy"
+    },
+    {
+      "id": "i3",
+      "_where": "heritageSection · Photo placeholder",
+      "src": "/assets/img/gallery/event-41.jpg",
+      "alt": "5th Bangladesh Nazrul Sangeet Conference, 1987"
+    },
+    {
+      "id": "i4",
+      "_where": "nazrulCornerSection · Portrait",
+      "src": "/assets/img/uploads/nazrul-portrait-corner.jpg",
+      "alt": "Kazi Nazrul Islam, the National Poet of Bangladesh"
+    }
+  ],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Home",
+      "description": "Nazrul Academy — preserving the legacy of the national poet, Kazi Nazrul Islam."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "heroSection"
+    },
+    {
+      "_n": 2,
+      "_title": "aboutPreview"
+    },
+    {
+      "_n": 3,
+      "_title": "noticesSection"
+    },
+    {
+      "_n": 4,
+      "_title": "programsSection"
+    },
+    {
+      "_n": 5,
+      "_title": "activitiesSection"
+    },
+    {
+      "_n": 6,
+      "_title": "publicationsSection"
+    },
+    {
+      "_n": 7,
+      "_title": "nazrulCornerSection"
+    },
+    {
+      "_n": 8,
+      "_title": "heritageSection"
+    },
+    {
+      "_n": 9,
+      "_title": "gallerySection"
+    }
+  ],
+  "gallery": [
+    {
+      "label": "Program photo",
+      "photo": "/assets/img/gallery/event-07.jpg"
+    },
+    {
+      "label": "Music performance",
+      "photo": "/assets/img/gallery/event-44.jpg"
+    },
+    {
+      "label": "Poetry reading",
+      "photo": "/assets/img/gallery/event-05.jpg"
+    },
+    {
+      "label": "Workshop session",
+      "photo": "/assets/img/gallery/event-53.jpg"
+    },
+    {
+      "label": "Guests & board",
+      "photo": "/assets/img/gallery/event-43.jpg"
+    },
+    {
+      "label": "Academy building",
+      "photo": "/assets/img/gallery/event-04.jpg"
+    }
+  ]
+}

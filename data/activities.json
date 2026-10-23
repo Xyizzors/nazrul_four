@@ -1,0 +1,90 @@
+{
+  "acts": [
+    {
+      "date": "18 Feb 2026",
+      "en": "Children's storytelling circle held at the reading room",
+      "bn": "পাঠকক্ষে শিশুদের গল্প বলার আসর অনুষ্ঠিত",
+      "desc_en": "Young readers gathered for an afternoon of storytelling drawn from Nazrul's works for children.",
+      "desc_bn": "নজরুলের শিশুতোষ রচনা অবলম্বনে গল্প বলার এক বিকেলে শিশু পাঠকরা একত্রিত হয়।",
+      "photo": "/assets/img/gallery/event-24.jpg"
+    },
+    {
+      "date": "05 Feb 2026",
+      "en": "Folk music ensemble performed at the winter gathering",
+      "bn": "শীতকালীন সম্মিলনে লোকসংগীত দলের পরিবেশনা",
+      "desc_en": "A folk ensemble presented traditional Bengali songs alongside Nazrul Sangeet.",
+      "desc_bn": "একটি লোকসংগীত দল নজরুল সংগীতের পাশাপাশি ঐতিহ্যবাহী বাংলা গান পরিবেশন করে।",
+      "photo": "/assets/img/gallery/event-69.jpg"
+    },
+    {
+      "date": "22 Jan 2026",
+      "en": "Calligraphy workshop on Nazrul's handwritten manuscripts",
+      "bn": "নজরুলের হস্তলিখিত পাণ্ডুলিপি নিয়ে ক্যালিগ্রাফি কর্মশালা",
+      "desc_en": "Participants studied and practised script styles inspired by archival manuscripts.",
+      "desc_bn": "অংশগ্রহণকারীরা আর্কাইভ পাণ্ডুলিপি অনুপ্রাণিত হস্তলিপি অনুশীলন করেন।",
+      "photo": "/assets/img/gallery/event-64.jpg"
+    },
+    {
+      "date": "11 Jan 2026",
+      "en": "Public lecture on Nazrul's contribution to Bengali journalism",
+      "bn": "বাংলা সাংবাদিকতায় নজরুলের অবদান নিয়ে জনসাধারণের জন্য বক্তৃতা",
+      "desc_en": "A guest speaker discussed Nazrul's editorial writing and its lasting influence.",
+      "desc_bn": "একজন অতিথি বক্তা নজরুলের সম্পাদকীয় রচনা ও তার স্থায়ী প্রভাব নিয়ে আলোচনা করেন।",
+      "photo": ""
+    },
+    {
+      "date": "29 Dec 2025",
+      "en": "Youth theatre group staged a short adaptation of Nazrul's writing",
+      "bn": "তরুণ নাট্যদল নজরুলের রচনার সংক্ষিপ্ত নাট্যরূপ মঞ্চস্থ করে",
+      "desc_en": "A student theatre group presented an original stage adaptation to a full house.",
+      "desc_bn": "একটি শিক্ষার্থী নাট্যদল পূর্ণ দর্শকের সামনে একটি মৌলিক নাট্যরূপ উপস্থাপন করে।",
+      "photo": ""
+    },
+    {
+      "date": "14 Dec 2025",
+      "en": "Annual winter cultural fair opened at the academy grounds",
+      "bn": "একাডেমী প্রাঙ্গণে বার্ষিক শীতকালীন সাংস্কৃতিক মেলার উদ্বোধন",
+      "desc_en": "The fair featured craft stalls, music and readings across the academy grounds.",
+      "desc_bn": "মেলায় ছিল হস্তশিল্প স্টল, সংগীত এবং কবিতা পাঠের আয়োজন।",
+      "photo": ""
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Recent Activity",
+      "bn": "সাম্প্রতিক কার্যক্রম"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Activities",
+      "bn": "কার্যক্রম"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "A running record of programs, workshops and gatherings held at the academy.",
+      "bn": "একাডেমীতে অনুষ্ঠিত কর্মসূচি, কর্মশালা ও সম্মিলনের একটি চলমান তালিকা।"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Activities",
+      "description": ""
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Recent Activity"
+    },
+    {
+      "_n": 2,
+      "_title": "Section"
+    }
+  ]
+}

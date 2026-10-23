@@ -1,0 +1,1074 @@
+{
+  "poemTypes": [
+    {
+      "title_en": "Pralayollas",
+      "title_bn": "প্রলয়োল্লাস",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Bidrohi",
+      "title_bn": "বিদ্রোহী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Raktambardharini Ma",
+      "title_bn": "রক্তাম্বরধারিণী মা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "\"Shat-il-Arab\"",
+      "title_bn": "“শাৎ-ইল-আরব”",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Kheya-Parer Tarani",
+      "title_bn": "খেয়া-পারের তরণী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Mohorrom",
+      "title_bn": "মোহররম",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Aaj Srishti-Sukher Ullase",
+      "title_bn": "আজ সৃষ্টি-সুখের উল্লাসে",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Pujarini",
+      "title_bn": "পূজারিণী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Obhishap",
+      "title_bn": "অভিশাপ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Fateha-i-Doazdohom [Abirbhab]",
+      "title_bn": "ফাতেহা-ই-দোয়াজ্-দহম্ [আবির্ভাব]",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Fateha-i-Doazdohom [Tirobhab]",
+      "title_bn": "ফাতেহা-ই-দোয়াজ্-দহম্ [তিরোভাব]",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Shikal-Porar Gaan",
+      "title_bn": "শিকল-পড়ার গান",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Bijayini",
+      "title_bn": "বিজয়িনী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Cheti Hawa",
+      "title_bn": "চেতী হাওয়া",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Byatha-Nishith",
+      "title_bn": "ব্যথা-নিশীথ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Apon-Piyasi",
+      "title_bn": "আপন-পিয়াসী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "O-Kejor Gaan",
+      "title_bn": "অ-কেজোর গান",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Stabdha Badal",
+      "title_bn": "স্তব্ধ বাদল",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Chand-Mukur",
+      "title_bn": "চাঁদ-মুকুর",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Pahari Gaan",
+      "title_bn": "পাহাড়ী গান",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Roudra-Dogdhoer Gaan",
+      "title_bn": "রৌদ্র-দগ্ধের গান",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Santwana",
+      "title_bn": "সান্ত্বনা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Indra-Patan",
+      "title_bn": "ইন্দ্র-পতন",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Nikate",
+      "title_bn": "নিকটে",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Sharaban Tohura",
+      "title_bn": "শরাবন্ তহুরা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Samyabadi",
+      "title_bn": "সাম্যবাদী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Manush",
+      "title_bn": "মানুষ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Barangana",
+      "title_bn": "বারাঙ্গনা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Nari",
+      "title_bn": "নারী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Kuli-Mojur",
+      "title_bn": "কুলি-মজুর",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Krishaner Gaan",
+      "title_bn": "কৃষাণের গান",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Chhatradaler Gaan",
+      "title_bn": "ছাত্রদলের গান",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Kandari Hushiar!",
+      "title_bn": "কাণ্ডারী হুঁশিয়ার!",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Foriyad",
+      "title_bn": "ফরিয়াদ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Amar Kaifiyat",
+      "title_bn": "আমার কৈফিয়ত",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Gokul Nag",
+      "title_bn": "গোকুল নাগ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Satya-Kobi",
+      "title_bn": "সত্য-কবি",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Antar-National Sangeet",
+      "title_bn": "অন্তর-ন্যাশনাল সঙ্গীত",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Hindu-Muslim Juddho",
+      "title_bn": "হিন্দু-মুসলিম যুদ্ধ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Sindhu [Prothom Torongo]",
+      "title_bn": "সিন্ধু [প্রথম তরঙ্গ]",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Sindhu [Dwitiyo Torongo]",
+      "title_bn": "সিন্ধু [দ্বিতীয় তরঙ্গ]",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Sindhu [Tritiyo Torongo]",
+      "title_bn": "সিন্ধু [তৃতীয় তরঙ্গ]",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "O-Namika",
+      "title_bn": "অ-নামিকা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Daridrya",
+      "title_bn": "দারিদ্র্য",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Phalguni",
+      "title_bn": "ফাল্গুনী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Chandnirate",
+      "title_bn": "চাঁদনীরাতে",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Madhavi-Prolap",
+      "title_bn": "মাধবী-প্রলাপ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Barshik Sawgat",
+      "title_bn": "বার্ষিক সওগাত",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Aghraner Sawgat",
+      "title_bn": "অঘ্রানের সওগাত",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Mrs. M. Rahman",
+      "title_bn": "মিসেস্ এম্. রহমান",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Khaled",
+      "title_bn": "খালেদ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "\"Khoshu Amdedh\"",
+      "title_bn": "“খোশু আ’ম্দেদ”",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Nowroz",
+      "title_bn": "নওরোজ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Aay Behesh-te Ke Jabi Aay",
+      "title_bn": "আয় বেহেশতে কে যাবি আয়",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Umar Faruk",
+      "title_bn": "উমর ফারূক",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "E Mor Ohongkar",
+      "title_bn": "এ মোর অহঙ্কার",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Batayan-Pashe Gubak-Tarur Sari",
+      "title_bn": "বাতায়ন-পাশে গুবাক-তরুর সারি",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Gaaner Aaral",
+      "title_bn": "গানের আড়াল",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Tumi More Bhuliyachho",
+      "title_bn": "তুমি মোরে ভুলিয়াছ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "1400 Sal",
+      "title_bn": "১৪০০ সাল",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Kuhelika",
+      "title_bn": "কুহেলিকা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Jibon-Bandana",
+      "title_bn": "জীবন-বন্দনা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Chol Chol Chol",
+      "title_bn": "চল্ চল্ চল্",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Bhorer Shanai",
+      "title_bn": "ভোরের সানাই",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Jouban-Jol-Torongo",
+      "title_bn": "যৌবন-জল-তরঙ্গ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Somor-Sangeet",
+      "title_bn": "সমর-সঙ্গীত",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Nab-Bharater Holudghat",
+      "title_bn": "নব-ভারতের হলুদঘাট",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Mukti",
+      "title_bn": "মুক্তি",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Notun Chand",
+      "title_bn": "নতুন চাঁদ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Chir-Jonmer Priya",
+      "title_bn": "চির-জনমের প্রিয়া",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Krishoker Eid",
+      "title_bn": "কৃষকের ঈদ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Azad",
+      "title_bn": "আজাদ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Swapno",
+      "title_bn": "স্বপ্ন",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Shoishob-Lila",
+      "title_bn": "শৈশব-লীলা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Bondhura Esho Phire",
+      "title_bn": "বন্ধুরা এসো ফিরে",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Sukh-Bilasini Parabat Tumi",
+      "title_bn": "সুখবিলাসিনী পারাবত তুমি",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Purobodhu",
+      "title_bn": "পুরবধূ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Aarati",
+      "title_bn": "আরতি",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Atmogoto",
+      "title_bn": "আত্মগত",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Shakh-i-Nabat",
+      "title_bn": "শাখ-ই-নবাৎ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Bornobhasha",
+      "title_bn": "বর্ণভাষা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Kobita-Samadhi",
+      "title_bn": "কবিতা-সমাধি",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Anandamoyir Agomone",
+      "title_bn": "আনন্দময়ীর আগমনে",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Mobarakbad",
+      "title_bn": "মোবারকবাদ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Salam Anta-\"Rabi\"",
+      "title_bn": "সালাম অন্ত-“রবি”",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Oporup Se Durantho",
+      "title_bn": "অপরূপ সে দূরন্ত",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Alla Parom Priyotom Mor",
+      "title_bn": "আল্লা পরম প্রিয়তম মোর",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Chir-Nirbhoy",
+      "title_bn": "চির-নির্ভয়",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Daridra Mor Poromatmiyo",
+      "title_bn": "দরিদ্র মোর পরমাত্মীয়",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Abir",
+      "title_bn": "আবীর",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Sadhona",
+      "title_bn": "সাধনা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Trade Show",
+      "title_bn": "ট্রেড শো",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Tirthapathik [Rabindranather Patrer Uttor]",
+      "title_bn": "তীর্থপথিক [রবীন্দ্রনাথের পত্রের উত্তর]",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Rabi-Hara",
+      "title_bn": "রবি-হারা",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Rubaiyat",
+      "title_bn": "রুবাইয়াৎ",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Kalyani",
+      "title_bn": "কল্যাণী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Shesh Bani",
+      "title_bn": "শেষ বাণী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Sura Fatiha",
+      "title_bn": "সুরা ফাতেহা",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Sura Nas",
+      "title_bn": "সুরা নাস",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Sura Falak",
+      "title_bn": "সুরা ফলক্",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Sura Ikhlas",
+      "title_bn": "সুরা ইখলাস",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Sura Lahab",
+      "title_bn": "সুরা লহব্",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Rubaiyat-i-Hafiz",
+      "title_bn": "রুবাইয়াৎ-ই-হাফিজ",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Omar Khayyam-Giti",
+      "title_bn": "ওমর খৈয়াম-গীতি",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Diwan-i-Hafiz Giti",
+      "title_bn": "দীওয়ান-ই-হাফিজ গীতি",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Diwan-i-Hafiz",
+      "title_bn": "দীওয়ান-ই-হাফিজ",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Rubaiyat-i-Omar Khayyam",
+      "title_bn": "রুবাইয়াৎ-ই-ওমর খৈয়াম",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Ashay",
+      "title_bn": "আশায়",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Priyar Deowa Sharab",
+      "title_bn": "প্রিয়ার দেওয়া শরাব",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Chaturdashpadi [Omar Khayyam]",
+      "title_bn": "চতুর্দশপদী [ওমর খৈয়াম]",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Agra-Pothik [Walt Whitman]",
+      "title_bn": "অগ্র-পথিক [ওয়াল্ট হুইটম্যান]",
+      "group_en": "Translations & Adaptations",
+      "group_bn": "অনুবাদ-অনুসৃতি"
+    },
+    {
+      "title_en": "Jhinge Phool",
+      "title_bn": "ঝিঙেফুল",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Khuki O Kathberali",
+      "title_bn": "খুকি ও কাঠবেড়ালি",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Khadu-Dadu",
+      "title_bn": "খাঁদু-দাদু",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Prabhati",
+      "title_bn": "প্রভাতী",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Lichu-Chor",
+      "title_bn": "লিচু-চোর",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Shonkolpo",
+      "title_bn": "সংকল্প",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Jiggasha",
+      "title_bn": "জিজ্ঞাসা",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Saras Pakhi",
+      "title_bn": "সারস পাখি",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Notun Khabar",
+      "title_bn": "নতুন খাবার",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Shishu-Sawgat",
+      "title_bn": "শিশু-সওগাত",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Ghum-Parani Gaan",
+      "title_bn": "ঘুম-পাড়ানী গান",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Motku Maiti Batukul Roy",
+      "title_bn": "মট্‌কু মাইতি বাঁটুকুল রায়",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Agunner Phulki Chhute",
+      "title_bn": "আগুনের ফুলকি ছুটে",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Sat Bhai Champa",
+      "title_bn": "সাত ভাই চম্পা",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Shishu Jadukor",
+      "title_bn": "শিশু জাদুকর",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Mukuler Udbodhon",
+      "title_bn": "মুকুলের উদ্বোধন",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Aga Murgi Le Ke Bhaga",
+      "title_bn": "আগা মুরগী লে কে ভাগা",
+      "group_en": "Children's Poems",
+      "group_bn": "শিশু-কিশোরতোষ কবিতা"
+    },
+    {
+      "title_en": "Tomay Amay",
+      "title_bn": "তোমায় আমায়",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Sudur Jatri",
+      "title_bn": "সুদূর যাত্রী",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    },
+    {
+      "title_en": "Bhumikampa",
+      "title_bn": "ভূমিকম্প",
+      "group_en": "Poems",
+      "group_bn": "কবিতা"
+    }
+  ],
+  "proseWorks": [
+    {
+      "title_en": "Byathar Dan",
+      "title_bn": "ব্যথার দান",
+      "group_en": "Short Stories",
+      "group_bn": "ছোটগল্প"
+    },
+    {
+      "title_en": "Hena",
+      "title_bn": "হেনা",
+      "group_en": "Short Stories",
+      "group_bn": "ছোটগল্প"
+    },
+    {
+      "title_en": "Baundeler Atmokahini",
+      "title_bn": "বাউণ্ডেলের আত্মকাহিনী",
+      "group_en": "Short Stories",
+      "group_bn": "ছোটগল্প"
+    },
+    {
+      "title_en": "Rakkhushi",
+      "title_bn": "রাক্ষুসী",
+      "group_en": "Short Stories",
+      "group_bn": "ছোটগল্প"
+    },
+    {
+      "title_en": "Padma-Gokhro",
+      "title_bn": "পদ্ম-গোখরো",
+      "group_en": "Short Stories",
+      "group_bn": "ছোটগল্প"
+    },
+    {
+      "title_en": "Jiner Badsha",
+      "title_bn": "জিনের বাদশা",
+      "group_en": "Short Stories",
+      "group_bn": "ছোটগল্প"
+    },
+    {
+      "title_en": "Shiulimala",
+      "title_bn": "শিউলিমালা",
+      "group_en": "Short Stories",
+      "group_bn": "ছোটগল্প"
+    },
+    {
+      "title_en": "Mrityukshudha",
+      "title_bn": "মৃত্যুক্ষুধা",
+      "group_en": "Novels",
+      "group_bn": "উপন্যাস"
+    },
+    {
+      "title_en": "Nabajug",
+      "title_bn": "নবযুগ",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Dayarer Smritistombho",
+      "title_bn": "ডায়ারের স্মৃতিস্তম্ভ",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Bangla Sahitye Musalman",
+      "title_bn": "বাঙলা সাহিত্যে মুসলমান",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Upekkhito Shaktir Udbodhon",
+      "title_bn": "উপেক্ষিত শক্তির উদ্বোধন",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Bhab O Kaj",
+      "title_bn": "ভাব ও কাজ",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Rajbandir Jobanbandi",
+      "title_bn": "রাজবন্দীর জবানবন্দী",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Amra Lokkhichharar Dol",
+      "title_bn": "আমরা লক্ষ্মীছাড়ার দল",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "\"Meye Bhukha Hun\"",
+      "title_bn": "“মেয়ে ভূখা हूँ”",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Ami Soinik",
+      "title_bn": "আমি সৈনিক",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Amar Poth",
+      "title_bn": "আমার পথ",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Mohorrom",
+      "title_bn": "মোহররম",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Khudirammer Ma",
+      "title_bn": "খুদিরামের মা",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "\"Dhumketu\"-r Poth",
+      "title_bn": "“ধূমকেতু”র পথ",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Hindu-Musalman",
+      "title_bn": "হিন্দু-মুসলমান",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Amar Dhormo",
+      "title_bn": "আমার ধর্ম",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Bortoman Biswa-Sahitya",
+      "title_bn": "বর্তমান বিশ্ব-সাহিত্য",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Borar Piriti Balir Badh",
+      "title_bn": "বড়র পীরিতি বালির বাঁধ",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Aj Chai Ki",
+      "title_bn": "আজ চাই কি",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Amar Shundor",
+      "title_bn": "আমার সুন্দর",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Dhumketur Adi Udoy-Smriti",
+      "title_bn": "ধূমকেতুর আদি উদয়-স্মৃতি",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Bangalir Bangla",
+      "title_bn": "বাঙালির বাঙলা",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Amar League Congress",
+      "title_bn": "আমার লীগ কংগ্রেস",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Protibhashon",
+      "title_bn": "প্রতিভাষণ",
+      "group_en": "Addresses & Speeches",
+      "group_bn": "অভিভাষণ"
+    },
+    {
+      "title_en": "Tarunnyer Sadhona",
+      "title_bn": "তরুণের সাধনা",
+      "group_en": "Addresses & Speeches",
+      "group_bn": "অভিভাষণ"
+    },
+    {
+      "title_en": "Proti-Nomoshkar",
+      "title_bn": "প্রতি-নমস্কার",
+      "group_en": "Addresses & Speeches",
+      "group_bn": "অভিভাষণ"
+    },
+    {
+      "title_en": "Boner Papiya",
+      "title_bn": "বনের পাপিয়া",
+      "group_en": "Short Stories",
+      "group_bn": "ছোটগল্প"
+    },
+    {
+      "title_en": "Bandhan-Hara : Agranthita Tinti Parichhed",
+      "title_bn": "বাঁধন-হারা : অগ্রন্থিত তিনটি পরিচ্ছেদ",
+      "group_en": "Novels",
+      "group_bn": "উপন্যাস"
+    },
+    {
+      "title_en": "Bankimchandra",
+      "title_bn": "বঙ্কিমচন্দ্র",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Bhumika",
+      "title_bn": "ভূমিকা",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Chithi",
+      "title_bn": "চিঠি",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    },
+    {
+      "title_en": "Aashirbani",
+      "title_bn": "আশীর্বাণী",
+      "group_en": "Essays",
+      "group_bn": "প্রবন্ধ"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Nazrul Corner",
+      "bn": "নজরুল কর্ণার"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "REMOVEPAGE",
+      "bn": "REMOVE PAGE"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 2 · Heading",
+      "en": "Poems",
+      "bn": "কবিতা"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 3 · Heading",
+      "en": "Prose",
+      "bn": "গদ্য"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Prose and Poem",
+      "description": "List of prose works and poems by Kazi Nazrul Islam."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Prose and Poem"
+    },
+    {
+      "_n": 2,
+      "_title": "Poems"
+    },
+    {
+      "_n": 3,
+      "_title": "Prose"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "classrooms": [
+    {
+      "name_en": "Classical Music Studio",
+      "name_bn": "শাস্ত্রীয় সংগীত স্টুডিও",
+      "capacity": "15-20",
+      "desc_en": "Dedicated space for classical music training with traditional instruments.",
+      "desc_bn": "ঐতিহ্যবাহী বাদ্যযন্ত্র সহ শাস্ত্রীয় সংগীত প্রশিক্ষণের জন্য ডেডিকেটেড স্থান।",
+      "photo": ""
+    },
+    {
+      "name_en": "Poetry & Literature Hall",
+      "name_bn": "কবিতা ও সাহিত্য হল",
+      "capacity": "30-40",
+      "desc_en": "Large hall for literature classes, readings and discussions.",
+      "desc_bn": "সাহিত্য ক্লাস, পাঠ এবং আলোচনার জন্য বড় হল।",
+      "photo": ""
+    },
+    {
+      "name_en": "Dance Practice Room",
+      "name_bn": "নৃত্য অনুশীলন কক্ষ",
+      "capacity": "20-25",
+      "desc_en": "Spacious room with mirrors and sound system for dance training.",
+      "desc_bn": "নৃত্য প্রশিক্ষণের জন্য দর্পণ এবং সাউন্ড সিস্টেম সহ প্রশস্ত কক্ষ।",
+      "photo": ""
+    },
+    {
+      "name_en": "Research & Study Center",
+      "name_bn": "গবেষণা ও অধ্যয়ন কেন্দ্র",
+      "capacity": "25-30",
+      "desc_en": "Comfortable study space with research materials and computers.",
+      "desc_bn": "গবেষণা উপকরণ এবং কম্পিউটার সহ আরামদায়ক অধ্যয়ন স্থান।",
+      "photo": ""
+    },
+    {
+      "name_en": "Theatre Workshop",
+      "name_bn": "নাটক কর্মশালা",
+      "capacity": "40-50",
+      "desc_en": "Multi-purpose space for drama training and theatre productions.",
+      "desc_bn": "নাটক প্রশিক্ষণ এবং নাটকীয় উৎপাদনের জন্য বহুমুখী স্থান।",
+      "photo": ""
+    },
+    {
+      "name_en": "Reading Room & Library",
+      "name_bn": "পাঠকক্ষ ও লাইব্রেরি",
+      "capacity": "50+",
+      "desc_en": "Extensive library collection with reading spaces and archives.",
+      "desc_bn": "পাঠ স্থান এবং আর্কাইভ সহ বিস্তৃত লাইব্রেরি সংগ্রহ।",
+      "photo": ""
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Learning Spaces",
+      "bn": "শিক্ষার স্থান"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Our Classrooms",
+      "bn": "আমাদের ক্লাসরুম"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "State-of-the-art facilities designed for cultural education and artistic development.",
+      "bn": "সাংস্কৃতিক শিক্ষা এবং শৈল্পিক উন্নয়নের জন্য ডিজাইন করা অত্যাধুনিক সুবিধা।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Paragraph",
+      "en": "Nazrul Academy features modern classrooms and studios equipped to support our comprehensive programs in music, literature, dance and performing arts. Each space is designed to enhance learning and creative expression.",
+      "bn": "নজরুল একাডেমী আধুনিক ক্লাসরুম এবং স্টুডিও বৈশিষ্ট্যযুক্ত যা সংগীত, সাহিত্য, নৃত্য এবং পরিবেশন শিল্পে আমাদের ব্যাপক কর্মসূচি সমর্থন করার জন্য সজ্জিত। প্রতিটি স্থান শিক্ষা এবং সৃজনশীল অভিব্যক্তি বৃদ্ধির জন্য ডিজাইন করা হয়েছে।"
+    },
+    {
+      "id": "t5",
+      "_where": "Section 2 · Text",
+      "en": "Facilities",
+      "bn": "সুবিধা"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 2 · Text",
+      "en": "Capacity: ",
+      "bn": "ক্ষমতা: "
+    },
+    {
+      "id": "t7",
+      "_where": "Section 3 · Paragraph",
+      "en": "Our classrooms and studios are available for registered students, workshop participants and visiting artists. Facilities can be booked through the academy office for cultural events, seminars and collaborative projects. For inquiries about space availability and booking procedures, please contact our administration office.",
+      "bn": "আমাদের ক্লাসরুম এবং স্টুডিওগুলি নিবন্ধিত শিক্ষার্থী, কর্মশালা অংশগ্রহণকারী এবং অতিথি শিল্পীদের জন্য উপলব্ধ। সাংস্কৃতিক অনুষ্ঠান, সেমিনার এবং সহযোগিতামূলক প্রকল্পের জন্য একাডেমী অফিসের মাধ্যমে সুবিধা বুক করা যেতে পারে। স্থান উপলব্ধতা এবং বুকিং পদ্ধতি সম্পর্কে অনুসন্ধানের জন্য, অনুগ্রহ করে আমাদের প্রশাসনিক অফিসে যোগাযোগ করুন।"
+    },
+    {
+      "id": "t8",
+      "_where": "Section 3 · Text",
+      "en": "Booking & Access",
+      "bn": "বুকিং ও প্রবেশাধিকার"
+    },
+    {
+      "id": "t9",
+      "_where": "Section 3 · Text",
+      "en": "Book a Space",
+      "bn": "একটি স্থান বুক করুন"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Our Classrooms",
+      "description": "Learning facilities and classrooms at Nazrul Academy."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Learning Spaces"
+    },
+    {
+      "_n": 2,
+      "_title": "Facilities"
+    },
+    {
+      "_n": 3,
+      "_title": "Booking & Access"
+    }
+  ]
+}

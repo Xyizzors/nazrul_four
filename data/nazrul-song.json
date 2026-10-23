@@ -1,0 +1,828 @@
+{
+  "songTypes": [
+    {
+      "title_en": "Jugantorer Gaan",
+      "title_bn": "যুগান্তরের গান"
+    },
+    {
+      "title_en": "Jater Bojjati",
+      "title_bn": "জাতের বজ্জাতি"
+    },
+    {
+      "title_en": "Bhanger Gaan",
+      "title_bn": "ভাঙার গান"
+    },
+    {
+      "title_en": "Bagichay Bulbuli Tui Phulshakhate",
+      "title_bn": "বাগিচায় বুলবুলি তুই ফুলশাখাতে"
+    },
+    {
+      "title_en": "Amare Chokh-Ishara-y Dak Dile Hay Ke Go Dorodi",
+      "title_bn": "আমারে চোখ-ইশারায় ডাক দিলে হায় কে গো দরদী"
+    },
+    {
+      "title_en": "Boshiya Bijone Keno Eka Mone",
+      "title_bn": "বসিয়া বিজনে কেন একা মনে"
+    },
+    {
+      "title_en": "Bhuli Kemone Ajo Je Mone",
+      "title_bn": "ভুলি কেমনে আজো যে মনে"
+    },
+    {
+      "title_en": "Ke Bidesi Bon-Udashi",
+      "title_bn": "কে বিদেশী বন-উদাসী"
+    },
+    {
+      "title_en": "Korun Keno Orun Akhi",
+      "title_bn": "করুণ কেন অরুণ আঁখি"
+    },
+    {
+      "title_en": "Eto Jol O-Kajol-Chokhe",
+      "title_bn": "এত জল ও-কাজল-চোখে"
+    },
+    {
+      "title_en": "Cheyo Na Sunayna",
+      "title_bn": "চেয়ো না সুনয়না"
+    },
+    {
+      "title_en": "Nishi Bhor Holo Jagiya",
+      "title_bn": "নিশি ভোর হ’ল জাগিয়া"
+    },
+    {
+      "title_en": "Keno Dile E Kanta",
+      "title_bn": "কেন দিলে এ কাঁটা"
+    },
+    {
+      "title_en": "Sakhi, Bolo Bondhuyare Nirjone",
+      "title_bn": "সখি, ব’লো বঁধুয়ারে নিরজনে"
+    },
+    {
+      "title_en": "Nahe Nahe Priya, E Noy Akhi-Jol",
+      "title_bn": "নহে নহে প্রিয়, এ নয় আঁখি-জল"
+    },
+    {
+      "title_en": "E Akhi-Jol Mochho Priya",
+      "title_bn": "এ আঁখি-জল মোছ প্রিয়া"
+    },
+    {
+      "title_en": "Asile E Bhanga Ghore",
+      "title_bn": "আসিলে এ ভাঙা ঘরে"
+    },
+    {
+      "title_en": "Rumujhumu Rumujhumu",
+      "title_bn": "রুমুঝুমু রুমুঝুমু"
+    },
+    {
+      "title_en": "Smoron-Parer Ogo Priya, Tomay Ami Chini Jeno",
+      "title_bn": "স্মরণ-পারের ওগো প্রিয়, তোমায় আমি চিনি যেন"
+    },
+    {
+      "title_en": "Gahin Rate",
+      "title_bn": "গহীন রাতে"
+    },
+    {
+      "title_en": "Kar Nikunje Raat Katale",
+      "title_bn": "কার নিকুঞ্জে রাত কাটালে"
+    },
+    {
+      "title_en": "Keno Aluloy Chul-Dor",
+      "title_bn": "কেন আলুল চুল-ডোর"
+    },
+    {
+      "title_en": "Sajiyachho Jogi, Bol Kar Lagi",
+      "title_bn": "সাজিয়াছ যোগী বল কার লাগি"
+    },
+    {
+      "title_en": "Musafir! Mochho E Akhi-Jol",
+      "title_bn": "মুসাফির! মোছ এ আঁখি-জল"
+    },
+    {
+      "title_en": "E Nahe Bilas Bondhu, Phutechhi Jole Kamal",
+      "title_bn": "এ নহে বিলাস বন্ধু, ফুটেছি জলে কমল"
+    },
+    {
+      "title_en": "Amar Kon Kule Aaj Bhirlo Tori",
+      "title_bn": "আমার কোন কূলে আজ ভিড়ল তরী"
+    },
+    {
+      "title_en": "Harite Poran Nahi Chay",
+      "title_bn": "হাড়িতে পরান নাহি চায়"
+    },
+    {
+      "title_en": "Aji Badal Jhore Mor Ekela Ghore",
+      "title_bn": "আজি বাদল ঝরে মোর একেলা ঘরে"
+    },
+    {
+      "title_en": "Mor Ghum-Ghore Ele Manohar",
+      "title_bn": "মোর ঘুমঘোরে এলে মনোহর"
+    },
+    {
+      "title_en": "Keu Tole Na Keu Tole",
+      "title_bn": "কেউ তোলে না কেউ তোলে"
+    },
+    {
+      "title_en": "Amar Gahin Joler Nadi",
+      "title_bn": "আমার গহীন জলের নদী"
+    },
+    {
+      "title_en": "Amar \"Sampan\" Jatri Na Loy",
+      "title_bn": "আমার “সাম্পান” যাত্রী না লয়"
+    },
+    {
+      "title_en": "Adhar Rate Ke Go Ekela",
+      "title_bn": "আঁধার রাতে কে গো একেলা"
+    },
+    {
+      "title_en": "Janam Janam Gelo Asha-Poth Chahi",
+      "title_bn": "জনম জনম গেল আশা-পথ চাহি’"
+    },
+    {
+      "title_en": "Peye Keno Nahi Pai Hridoye Mom",
+      "title_bn": "পেয়ে কেন নাহি পাই হৃদয়ে মম"
+    },
+    {
+      "title_en": "Na Metite Sadh Mor Nishi Pohay",
+      "title_bn": "না মেটিতে সাধ মোর নিশি পোহায়"
+    },
+    {
+      "title_en": "Porojonme Dekha Hobe Priya",
+      "title_bn": "পরজনমে দেখা হবে প্রিয়"
+    },
+    {
+      "title_en": "Ke Dakile Amare Akhi Tule",
+      "title_bn": "কে ডাকিলে আমারে আঁখি তুলে"
+    },
+    {
+      "title_en": "Dule Choracher Hindol-Dole",
+      "title_bn": "দুলে চরাচর হিন্দোল-দোলে"
+    },
+    {
+      "title_en": "Botu Katha Oo, Botu Katha Oo",
+      "title_bn": "বটু কথা কও, বটু কথা কও"
+    },
+    {
+      "title_en": "Kotha Chand Amar",
+      "title_bn": "কোথা চাঁদ আমার"
+    },
+    {
+      "title_en": "Aji Ghum Nohe, Nishi Jagoron",
+      "title_bn": "আজি ঘুম নহে, নিশি জাগরণ"
+    },
+    {
+      "title_en": "Choriya Poran Shunitechhi Gaan",
+      "title_bn": "ভরিয়া পরান শুনিতেছি গান"
+    },
+    {
+      "title_en": "(Ogo) Notun Neshar Amar E Mod",
+      "title_bn": "(ওগো) নতুন নেশার আমার এ মদ"
+    },
+    {
+      "title_en": "O Bhai Amar E Nao Jatri Na Loy",
+      "title_bn": "ও ভাই আমার এ নাও যাত্রী না লয়"
+    },
+    {
+      "title_en": "Bhorer Hawa Ele Ghum Bhangate Ki",
+      "title_bn": "ভোরের হাওয়া এলে ঘুম ভাঙাতে কি"
+    },
+    {
+      "title_en": "Adho Dhoroni Alo Adho Adhar",
+      "title_bn": "আধো ধরণী আলো আধো আঁধার"
+    },
+    {
+      "title_en": "Benur Binay Byather Sure Badhbo Go",
+      "title_bn": "বেনুর বীণায় ব্যথার সুরে বাঁধব গো"
+    },
+    {
+      "title_en": "Dule Alo-Shotodol Tolmol Tolmol",
+      "title_bn": "দুলে আলো-শতদল টলমল টলমল"
+    },
+    {
+      "title_en": "Ami Chai Khyapa Baul, Amar Deul",
+      "title_bn": "আমি চাই ক্ষ্যাপা বাউল, আমার দেউল"
+    },
+    {
+      "title_en": "Tui Lukabi Kothay Ma Kali",
+      "title_bn": "তুই লুকাবি কোথায় মা কালি"
+    },
+    {
+      "title_en": "Timir-Bidari Alakh-Bihari",
+      "title_bn": "তিমির-বিদারী অলখ-বিহারী"
+    },
+    {
+      "title_en": "Kende Jay Dokkhin-Hawa Phire Phool-Boner Goli",
+      "title_bn": "কেঁদে যায় দক্ষিণ-হাওয়া ফিরে ফুল-বনের গলি"
+    },
+    {
+      "title_en": "Boksho Amar Ka'barar Chhobi",
+      "title_bn": "বক্ষে আমার কা’বার ছবি"
+    },
+    {
+      "title_en": "Thakite Choron Moroney Ki Bhoy",
+      "title_bn": "থাকিতে চরণ মরণে কি ভয়"
+    },
+    {
+      "title_en": "Ami Turog Bhabiya Morege Chorinu",
+      "title_bn": "আমি তুরগ ভাবিয়া মোরগে চড়িনু"
+    },
+    {
+      "title_en": "Jodi Shaler Bon Hoto Shalare Bon",
+      "title_bn": "যদি শালের বন হ’ত শালারে বোন্"
+    },
+    {
+      "title_en": "Badna-Gachhute Galagali Kore",
+      "title_bn": "বদনা-গাছুতে গালাগালি করে"
+    },
+    {
+      "title_en": "Saheb Koren, \"Chomotkar! Se Chomotkar!\"",
+      "title_bn": "সাহেব করেন, “চমৎকার! সে চমৎকার!”"
+    },
+    {
+      "title_en": "Gaanguli Mor Ahoto Pakhir Shom",
+      "title_bn": "গানগুলি মোর আহত পাখির সম"
+    },
+    {
+      "title_en": "Biday-Sandhya Asil Oi",
+      "title_bn": "বিদায়-সন্ধ্যা আসিল ঐ"
+    },
+    {
+      "title_en": "Amar Noyone Noyon Rakhi",
+      "title_bn": "আমার নয়নে নয়ন রাখি’"
+    },
+    {
+      "title_en": "Ano Saki Shiraji Ano Akhi-Piyalar",
+      "title_bn": "আনো সাকি শিরাজী আনো আঁখি-পিয়ালার"
+    },
+    {
+      "title_en": "Hridoy Keno Chahe Hridoy",
+      "title_bn": "হৃদয় কেন চাহে হৃদয়"
+    },
+    {
+      "title_en": "Shunyo Aji Gul-Bagicha",
+      "title_bn": "শূন্য আজি গুল-বাগিচা"
+    },
+    {
+      "title_en": "Shoi Bhalo Kore Binod Beni Badhiya De",
+      "title_bn": "সই ভালো ক’রে বিনোদ বেণী বাঁধিরা দে"
+    },
+    {
+      "title_en": "Birher Gulbage Mor Bhul Kore Aaj",
+      "title_bn": "বিরহের গুলবাগে মোর ভুল ক’রে আজ"
+    },
+    {
+      "title_en": "Tulite Parine Tai Asiyachhi Poth Bhuli",
+      "title_bn": "তুলিতে পারিনে তাই আসিয়াছি পথ ভুলি’"
+    },
+    {
+      "title_en": "Harano Hiyar Nikunjo-Pothe",
+      "title_bn": "হারানো হিয়ার নিকুঞ্জপথে"
+    },
+    {
+      "title_en": "Oi Ghor-Bhulano Sure",
+      "title_bn": "ঐ ঘর-ভুলানো সুরে"
+    },
+    {
+      "title_en": "Ekela Gauri Jolke Chole Gangatir",
+      "title_bn": "একেলা গৌরী জলকে চলে গঙ্গাতির"
+    },
+    {
+      "title_en": "Tumi Kon Pothe Ele He Marabi Kobi",
+      "title_bn": "তুমি কোন্ পথে এলে হে মারাবী কবি"
+    },
+    {
+      "title_en": "E Ki Sure Tumi Gaan Shonale Bhinnodeshi Pakhi",
+      "title_bn": "এ কি সুরে তুমি গান শোনালে ভিন্নদেশী পাখি"
+    },
+    {
+      "title_en": "Amar Shyamla Boron Bangla Mayer",
+      "title_bn": "আমার শ্যামলা বরণ বাংলা মায়ের"
+    },
+    {
+      "title_en": "Naiya! Dhire Chalao Tarani",
+      "title_bn": "নাইয়া! ধীরে চালাও তরণী"
+    },
+    {
+      "title_en": "Amar Horinamey Ruchi",
+      "title_bn": "আমার হরিনামে রুচি"
+    },
+    {
+      "title_en": "Dike Dike Pun Jaliya Uthechhe",
+      "title_bn": "দিকে দিকে পুন জ্বলিয়া উঠেছে"
+    },
+    {
+      "title_en": "Mohorramer Chand Elo Oi Kadte Phere Duniyar",
+      "title_bn": "মোহররমের চাঁদ এল ঐ কাঁদতে ফের দুনিয়ার"
+    },
+    {
+      "title_en": "Shahidi Idgahe Dekho Aaj Jomayet Bhari",
+      "title_bn": "শহীদী ইদগাহে দেখ আজ জমায়েত ভারি"
+    },
+    {
+      "title_en": "O Mon Ramzaner Oi Rozar Shese",
+      "title_bn": "ও মন রমজানের ঐ রোজার শেষে"
+    },
+    {
+      "title_en": "Sahara-te Phutal Re",
+      "title_bn": "সাহারাতে ফুটল রে"
+    },
+    {
+      "title_en": "Allah Amar Provu, Amar Nahi Nahi Bhoy",
+      "title_bn": "আল্লাহ্ আমার প্রভু, আমার নাহি নাহি ভয়"
+    },
+    {
+      "title_en": "Islamer Oi Sauda Loye",
+      "title_bn": "ইসলামের ঐ সওদা লয়ে"
+    },
+    {
+      "title_en": "Jabi Ke Madinay, Aay Tura Kori",
+      "title_bn": "যাবি কে মদিনায়, আয় তুরা করি’"
+    },
+    {
+      "title_en": "Khodar Premer Sharab Piye",
+      "title_bn": "খোদার প্রেমের শারাাব পিয়ে"
+    },
+    {
+      "title_en": "Tora Dekhe Ja, Aamina Mayer Kole",
+      "title_bn": "তোরা দেখে যা, আমিনা মায়ের কোলে"
+    },
+    {
+      "title_en": "Syed Meki Madani",
+      "title_bn": "সৈয়দ মেকী মদনী"
+    },
+    {
+      "title_en": "Alga Koro Go Khopar Badhon",
+      "title_bn": "আলগা করো গো খোঁপার বাঁধন"
+    },
+    {
+      "title_en": "Kokil, Sadhili Ki Baad",
+      "title_bn": "কোকিল, সাধিলি কি বাদ"
+    },
+    {
+      "title_en": "Priya Jai Jai Bolo Na",
+      "title_bn": "প্রিয় যাই যাই বলো না"
+    },
+    {
+      "title_en": "Dite Ele Phool, He Priya",
+      "title_bn": "দিতে এলে ফুল, হে প্রিয়"
+    },
+    {
+      "title_en": "Poshaner Bhangale Ghum",
+      "title_bn": "পাষাণের ভাঙালে ঘুম"
+    },
+    {
+      "title_en": "Chirodin Kaharo Shoman Nahi Jay",
+      "title_bn": "চিরদিন কাহারো সমান নাহি যায়"
+    },
+    {
+      "title_en": "Amar Kalo Meyer Payer Tolay",
+      "title_bn": "আমার কালো মেয়ের পায়ের তলায়"
+    },
+    {
+      "title_en": "Aar Lukabi Kothay Ma Kali",
+      "title_bn": "আর লুকাবি কোথায় মা কালী"
+    },
+    {
+      "title_en": "Gul-Bagicher Bulbuli Ami",
+      "title_bn": "গুল-বাগিচার বুলবুলি আমি"
+    },
+    {
+      "title_en": "Bokul Champar Bone Ke Mor",
+      "title_bn": "বকুল চাঁপার বনে কে মোর"
+    },
+    {
+      "title_en": "Poth Chalite Jodi Chokite",
+      "title_bn": "পথ চলিতে যদি চকিতে"
+    },
+    {
+      "title_en": "Buke Tomay Nai Ba Pelam",
+      "title_bn": "বুকে তোমায় নাই বা পেলাম"
+    },
+    {
+      "title_en": "Badal Baye Mor Nibhiya Gechhe Bati",
+      "title_bn": "বাদল বায়ে মোর নিভিয়া গেছে বাতি"
+    },
+    {
+      "title_en": "Megher Hindola Dey Purbo-Hawate Dola",
+      "title_bn": "মেঘের হিন্দোলা দেয় পুব-হাওয়াতে দোলা"
+    },
+    {
+      "title_en": "Tomar Akashe Uthchhilo Chand",
+      "title_bn": "তোমার আকাশে উঠছিল চাঁদ"
+    },
+    {
+      "title_en": "Rimikim Rimikim Oi Namilo Deya",
+      "title_bn": "রিমিকিম্ রিমিকিম্ ঐ নামিল দেয়া"
+    },
+    {
+      "title_en": "Basonti Rong Shari Poro",
+      "title_bn": "বাসন্তী রং শাড়ি প’রো"
+    },
+    {
+      "title_en": "Nache Sunil Dariya Aji Dil-Dariya",
+      "title_bn": "নাচে সুনীল দরিয়া আজি দিল্-দরিয়া"
+    },
+    {
+      "title_en": "Shiuli Phooler Mala Dole",
+      "title_bn": "শিউলি ফুলের মালা দোলে"
+    },
+    {
+      "title_en": "Amar Desher Mati",
+      "title_bn": "আমার দেশের মাটি"
+    },
+    {
+      "title_en": "Bohiche Sahara-y Shoker \"Lu\" Hawa",
+      "title_bn": "বহিছে সাহারায় শোকের “লূ” হাওয়া"
+    },
+    {
+      "title_en": "Taufik Dao Khoda Islame",
+      "title_bn": "তৌফিক দাও খোদা ইসলামে"
+    },
+    {
+      "title_en": "Bajiche Damama, Badh Re Amama",
+      "title_bn": "বাজিছে দামামা, বাঁধ রে আমামা"
+    },
+    {
+      "title_en": "Mohammad Mostafa Salle Ala",
+      "title_bn": "মোহাম্মদ মোস্তফা সাল্লে আলা"
+    },
+    {
+      "title_en": "Shukno Patar Nupur Paye",
+      "title_bn": "শুকনো পাতার নূপুর পায়ে"
+    },
+    {
+      "title_en": "Chomke Chomke Dhir Bhiru Pay",
+      "title_bn": "চম্’কে চম্’কে ধীর ভীরু পায়"
+    },
+    {
+      "title_en": "Palash Phooler Mau Piye Oi",
+      "title_bn": "পলাশ ফুলের মউ পিয়ে ঐ"
+    },
+    {
+      "title_en": "Chander Piyalate Aji",
+      "title_bn": "চাঁদের পিয়ালাতে আজি"
+    },
+    {
+      "title_en": "Shabuj Shobhar Dheu Khele Jay",
+      "title_bn": "সবুজ শোভার ঢেউ খেলে যায়"
+    },
+    {
+      "title_en": "Hul Phutiye Gele Shudhu Parle Na Hay Phool Photate",
+      "title_bn": "হুল ফুটিয়ে গেলে শুধু পারলে না হায় ফুল ফোটাতে"
+    },
+    {
+      "title_en": "Chhar Chhar Achol Bondhu",
+      "title_bn": "ছাড় ছাড় আঁচল বঁধু"
+    },
+    {
+      "title_en": "Jago Jago, Re Musafir Hoye Ashe Nishibhor",
+      "title_bn": "জাগো জাগো, রে মুসাফির হয়ে আসে নিশিভোর"
+    },
+    {
+      "title_en": "Gunja-Mala Gole Kunje Eshe He Kala",
+      "title_bn": "গুঞ্জা-মালা গলে কুঞ্জে এসে হে কালা"
+    },
+    {
+      "title_en": "Ore Hulore Tui Rat-Birete Dhukishne Hensel",
+      "title_bn": "ওরে হুলোরে তুই রাতবিরেতে ঢুকিসনে হেঁসেল্"
+    },
+    {
+      "title_en": "Darale Duare Mor Ke Tumi Bhikharini",
+      "title_bn": "দাঁড়ালে দুয়ারে মোর কে তুমি ভিখারিনী"
+    },
+    {
+      "title_en": "Ami Sundor Nohi, Jani He Bondhu Jani",
+      "title_bn": "আমি সুন্দর নহি, জানি হে বন্ধু জানি"
+    },
+    {
+      "title_en": "Adho-Adho Bol",
+      "title_bn": "আধো-আধো বোল"
+    },
+    {
+      "title_en": "Bhul Kore Jodi Bhalobeshe Thaki",
+      "title_bn": "ভুল করে যদি ভালোবেসে থাকি"
+    },
+    {
+      "title_en": "Priya Emon Raat Jen Jay Na Brithai",
+      "title_bn": "প্রিয় এমন রাত যেন যায় না বৃথাই"
+    },
+    {
+      "title_en": "Aaj Nishithe Obhisar Tomar Pothe",
+      "title_bn": "আজ নিশীথে অভিসার তোমার পথে"
+    },
+    {
+      "title_en": "Nishi Na Pohate Jeyo Na Jeyo Na",
+      "title_bn": "নিশি না পোহাতে যেয়ো না যেয়ো না"
+    },
+    {
+      "title_en": "Door Dwip-Bashini",
+      "title_bn": "দূর দ্বীপ-বাসিনী"
+    },
+    {
+      "title_en": "Adhokhana Chand Hashiche Akashe",
+      "title_bn": "আধখানা চাঁদ হাসিছে আকাশে"
+    },
+    {
+      "title_en": "Jabe Sandhya-Belay Priya Tulsi-Tolay",
+      "title_bn": "যবে সন্ধ্যা-বেলায় প্রিয় তুলসী-তলায়"
+    },
+    {
+      "title_en": "Tob Jabar Bela Bole Jao Moner Katha",
+      "title_bn": "তব যাবার বেলা বলে যাও মনের কথা"
+    },
+    {
+      "title_en": "Snigdho-Shyam-Beni-Barna Esho Malabika",
+      "title_bn": "স্নিগ্ধ-শ্যাম-বেণী-বর্ণা এস মালবিকা"
+    },
+    {
+      "title_en": "Tomar Hater Sonar Rakhi",
+      "title_bn": "তোমার হাতের সোনার রাখি"
+    },
+    {
+      "title_en": "Eki Oporup Rupe Ma Tomay Herinu Palli-Jononi",
+      "title_bn": "একি অপরূপ রূপে মা তোমায় হেরিনু পল্লী-জননী"
+    },
+    {
+      "title_en": "Shubhro Shomujjwal He Chir-Nirmal",
+      "title_bn": "শুভ্র সমুজ্জ্বল হে চির-নির্মল"
+    },
+    {
+      "title_en": "Mahakaler Kole Eshe Gauri Amar Hallo Kali",
+      "title_bn": "মহাকালের কোলে এসে গৌরী আমার হল কালী"
+    },
+    {
+      "title_en": "Ghumao, Ghumao! Dekhite Eshechhi",
+      "title_bn": "ঘুমাও, ঘুমাও! দেখিতে এসেছি"
+    },
+    {
+      "title_en": "Kolonko Ar Jyotsnay-Mesha",
+      "title_bn": "কলঙ্ক আর জ্যোৎস্নায়-মেশা"
+    },
+    {
+      "title_en": "Shunyo E Buke Pakhi Mor",
+      "title_bn": "শূন্য এ বুকে পাখি মোর"
+    },
+    {
+      "title_en": "Tumi Bhorer Shishur Rater Noyon-Pate",
+      "title_bn": "তুমি ভোরের শিশুর রাতের নয়ন-পাতে"
+    },
+    {
+      "title_en": "Dao Shourjo Dao Dhoirjo He Udar Nath",
+      "title_bn": "দাও শৌর্য দাও ধৈর্য হে উদার নাথ"
+    },
+    {
+      "title_en": "Jay Jhilmil Jhilmil Dheu Tule Dehe Kule",
+      "title_bn": "যায় ঝিল্মিল্ ঝিল্মিল্ ঢেউ তুলে দেহের কূলে"
+    },
+    {
+      "title_en": "Kajri Gahiya Chol Gop-Lalona",
+      "title_bn": "কাজরী গাহিয়া চল গোপ-ললনা"
+    },
+    {
+      "title_en": "Bol Re Jaba Bol!",
+      "title_bn": "বল্ রে জবা বল্!"
+    },
+    {
+      "title_en": "Tor Kalo Rup Lukate Ma Brithai Ayojon",
+      "title_bn": "তোর কালো রূপ লুকাতে মা বৃথাই আয়োজন"
+    },
+    {
+      "title_en": "More Aghat Joto Hanbi Shyama",
+      "title_bn": "মোরে আঘাত যত হানবি শ্যামা"
+    },
+    {
+      "title_en": "Amar Hridoy Odhik Ranga Ma Go",
+      "title_bn": "আমার হৃদয় অধিক রাঙা মা গো"
+    },
+    {
+      "title_en": "Jogot Jure Jal Phelechhis",
+      "title_bn": "জগৎ জুড়ে জাল ফেলেছিস"
+    },
+    {
+      "title_en": "Shoshane Jagiche Shyama",
+      "title_bn": "শ্মশানে জাগিছে শ্যামা"
+    },
+    {
+      "title_en": "Namo Namo Namo: Himgiri-Suta",
+      "title_bn": "নমো নমো নমো : হিমগিরি-সুতা"
+    },
+    {
+      "title_en": "Nilambari Shari Pori Nil Jamunay",
+      "title_bn": "নীলাম্বরী শাড়ি পরি’ নীল যমুনায়"
+    },
+    {
+      "title_en": "Jokhon Amar Gaan Furabe Tokhon Esho Phire",
+      "title_bn": "যখন আমার গান ফুরাবে তখন এসো ফিরে"
+    },
+    {
+      "title_en": "Bharat Shoshan Hallo Ma, Tui Shoshanbashini Bole",
+      "title_bn": "ভারত শ্মশান হল মা, তুই শ্মশানবাসিনী বলে"
+    },
+    {
+      "title_en": "Bulbuli Nirob Nargis-Bone",
+      "title_bn": "বুলবুলি নীরব নার্গিস-বনে"
+    },
+    {
+      "title_en": "Jare Haat Diye Mala Dite Par Nai",
+      "title_bn": "যারে হাত দিয়ে মালা দিতে পার নাই"
+    },
+    {
+      "title_en": "Ami Chirotore Dure Chole Jabo, Tobu Amare Deba Na Bhulite",
+      "title_bn": "আমি চিরতরে দূরে চলে যাব, তবু আমারে দেব না ভুলিতে"
+    },
+    {
+      "title_en": "Noyon-Bhora Jol Go Tomar Achol-Bhora Phool",
+      "title_bn": "নয়ন-ভরা জল গো তোমার আঁচল-ভরা ফুল"
+    },
+    {
+      "title_en": "Mora Ar-Jonme Hongsho-Mithun Chhilam Nodir Chore",
+      "title_bn": "মোরা আর-জনমে হংস-মিথুন ছিলাম নদীর চরে"
+    },
+    {
+      "title_en": "Bolechhile, Tumi Tirthe Ashibe Amar Tanur Tire",
+      "title_bn": "বলেছিলে, তুমি তীর্থে আসিবে আমার তনুর তীরে"
+    },
+    {
+      "title_en": "Ghumaite Dao Shrantho Rabire, Jagayo Na Jagayo Na",
+      "title_bn": "ঘুমাইতে দাও শ্রান্ত রবিরে, জাগায়ো না জাগায়ো না"
+    },
+    {
+      "title_en": "Nurjahan! Nurjahan!",
+      "title_bn": "নূরজাহান! নূরজাহান!"
+    },
+    {
+      "title_en": "Bhorer Jhiler Jole",
+      "title_bn": "ভোরের ঝিলের জলে"
+    },
+    {
+      "title_en": "Ami Purbo Desher Purnari",
+      "title_bn": "আমি পুরব দেশের পুরনারী"
+    },
+    {
+      "title_en": "Shawon Rate Jodi Shoron-e Ashe More",
+      "title_bn": "শাওন রাতে যদি স্মরণে আসে মোরে"
+    },
+    {
+      "title_en": "Kaveri Nodi-Jole Ke Go Balika",
+      "title_bn": "কাবেরী নদী-জলে কে গো বালিকা"
+    },
+    {
+      "title_en": "Tumi Shundor, Tai Cheye Thaki Priya, Se Ki Mor Oporadh",
+      "title_bn": "তুমি সুন্দর, তাই চেয়ে থাকি প্রিয়, সে কি মোর অপরাধ"
+    },
+    {
+      "title_en": "Dhormer Pothe Shahid Jahara Amra Shei Se Jati",
+      "title_bn": "ধর্মের পথে শহীদ যাহারা আমরা সেই সে জাতি"
+    },
+    {
+      "title_en": "Shawon Ashilo Phire, Se Phire Elo Na",
+      "title_bn": "শাওন আসিল ফিরে, সে ফিরে এল না"
+    },
+    {
+      "title_en": "Mor Priya Hobe, Esho Rani, Debo Khopay Tarar Phool",
+      "title_bn": "মোর প্রিয়া হবে, এস রানী, দেব খোঁপায় তারার ফুল"
+    },
+    {
+      "title_en": "Phooler Jolshay Nirob Keno Kobi",
+      "title_bn": "ফুলের জলসায় নীরব কেন কবি"
+    },
+    {
+      "title_en": "Amay Noy Go, Bhalobasho Shudhu Bhalobasho Mor Gaan",
+      "title_bn": "আমায় নহে গো, ভালবাস শুধু ভালবাস মোর গান"
+    },
+    {
+      "title_en": "Momtaz! Momtaz! Tomar Tajmohol",
+      "title_bn": "মমতাজ! মমতাজ! তোমার তাজমহল"
+    },
+    {
+      "title_en": "Rish Jhim Rish Jhim Jhim Ghon Deya Borshe",
+      "title_bn": "রিষ্ ঝিম্ রিষ্ ঝিম্ ঝিম্ ঘন দেয়া বরষে"
+    },
+    {
+      "title_en": "Ogo Priya, Tob Gaan",
+      "title_bn": "ওগো প্রিয়, তব গান"
+    },
+    {
+      "title_en": "\"Chokh Gelo\" \"Chokh Gelo\" Keno Dakis Re",
+      "title_bn": "“চোখ গেল” “চোখ গেল” কেন ডাকিস্ রে"
+    },
+    {
+      "title_en": "Podmar Dheu Re",
+      "title_bn": "পদ্মার ঢেউ রে"
+    },
+    {
+      "title_en": "Megh-Medur Borshay Kotha Tumi",
+      "title_bn": "মেঘ-মেদুর বরষায় কোথা তুমি"
+    },
+    {
+      "title_en": "Shei Mithe Sure Mather Bashori Baje",
+      "title_bn": "সেই মিঠে সুরে মাঠের বাঁশরী বাজে"
+    },
+    {
+      "title_en": "(Tumi) Shunite Cheyo Na Amar Moner Katha",
+      "title_bn": "(তুমি) শুনিতে চেয়ো না আমার মনের কথা"
+    },
+    {
+      "title_en": "He Ra Hote Hele-Dule",
+      "title_bn": "হে রা হতে হেলে-দুলে"
+    },
+    {
+      "title_en": "Sudur Makka Madinar Pothe Ami Rahi Musafir",
+      "title_bn": "সুদূর মক্কা মদিনার পথে আমি রাহী মুসাফির"
+    },
+    {
+      "title_en": "Touhider Murshid Amar Mohammader Naam",
+      "title_bn": "তৌহিদের মুরশিদ আমার মোহাম্মদের নাম"
+    },
+    {
+      "title_en": "Roj Hashore Allah Amar Koro Na Bichar",
+      "title_bn": "রোজ হাশরে আল্লাহ্ আমার করো না বিচার"
+    },
+    {
+      "title_en": "Naam Mohammad Bol Re Mon, Naam Mohammad Bol",
+      "title_bn": "নাম মোহাম্মদ বোল রে মন, নাম মোহাম্মদ বোল"
+    },
+    {
+      "title_en": "Alla Namer Beej Bunechhi Ebar Moner Mathe",
+      "title_bn": "আল্লা নামের বীজ বুনেছি এবার মনের মাঠে"
+    },
+    {
+      "title_en": "Drishtite Ar Hoy Na Srishti Agerer Moto Golap Phool",
+      "title_bn": "দৃষ্টিতে আর হয় না সৃষ্টি আগের মতো গোলাপ ফুল"
+    },
+    {
+      "title_en": "Projapati",
+      "title_bn": "প্রজাপতি"
+    },
+    {
+      "title_en": "Bhakti-Giti",
+      "title_bn": "ভক্তি-গীতি"
+    },
+    {
+      "title_en": "Aadhunik",
+      "title_bn": "আধুনিক"
+    },
+    {
+      "title_en": "Shyama Sangeet",
+      "title_bn": "শ্যামাসংগীত"
+    },
+    {
+      "title_en": "Phul Chai [Nach]",
+      "title_bn": "ফুল চাই [নাচ]"
+    },
+    {
+      "title_en": "March",
+      "title_bn": "মার্চ"
+    },
+    {
+      "title_en": "Mohua Bone",
+      "title_bn": "মহুয়া বনে"
+    },
+    {
+      "title_en": "Ya Elahi Ya Elahi",
+      "title_bn": "য়া এলাহি য়া এলাহি"
+    },
+    {
+      "title_en": "Benia-Chanchor",
+      "title_bn": "বেণিয়া-চাঁচর"
+    },
+    {
+      "title_en": "Usha Elo",
+      "title_bn": "উষা এলো"
+    },
+    {
+      "title_en": "Din Jabe Hol Abosan",
+      "title_bn": "দিন যাবে হ’ল অবসান"
+    },
+    {
+      "title_en": "Sokhir Gan",
+      "title_bn": "সখীর গান"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Nazrul Corner",
+      "bn": "নজরুল কর্ণার"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "removE PAGE",
+      "bn": "REMOVE PAGE"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Nazrul Song",
+      "description": "List of songs (Nazrul Sangeet) by Kazi Nazrul Islam."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Nazrul Song"
+    }
+  ]
+}

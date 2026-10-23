@@ -1,0 +1,237 @@
+.page {
+  --frontpage-green: #123128;
+  --frontpage-green-light: #1b4438;
+  --frontpage-gold: #d7b36a;
+  color: var(--charcoal-900);
+  background: var(--cream-050);
+}
+
+.identity {
+  position: relative;
+  display: grid;
+  width: min(calc(100% - 3rem), 1192px);
+  min-height: clamp(450px, 56vw, 600px);
+  margin: clamp(2rem, 5vw, 4rem) auto clamp(1.5rem, 3vw, 2.25rem);
+  grid-template-columns: minmax(0, 0.94fr) minmax(0, 1.06fr);
+  overflow: hidden;
+  border: 1px solid rgba(185, 138, 46, 0.38);
+  background:
+    radial-gradient(ellipse at 18% 95%, rgba(215, 179, 106, 0.12), transparent 46%),
+    linear-gradient(125deg, var(--frontpage-green), var(--frontpage-green-light));
+  box-shadow: 0 20px 60px rgba(15, 36, 30, 0.12);
+}
+
+.identity::before {
+  position: absolute;
+  z-index: 1;
+  inset: 14px;
+  border: 1px solid rgba(215, 179, 106, 0.22);
+  content: "";
+  pointer-events: none;
+}
+
+.identityCopy {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: clamp(3rem, 6.5vw, 6.25rem);
+  color: var(--cream-050);
+}
+
+.established {
+  margin: 0;
+  color: var(--frontpage-gold);
+  font-size: clamp(0.72rem, 1.15vw, 0.85rem);
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  line-height: 1.7;
+  text-transform: uppercase;
+}
+
+.title {
+  max-width: 10ch;
+  margin: 1.5rem 0 0;
+  color: var(--cream-050);
+  font-family: "Fraunces", "Noto Serif Bengali", serif;
+  font-size: clamp(3.4rem, 6.7vw, 6.1rem);
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  line-height: 1.02;
+  text-wrap: balance;
+}
+
+.goldRule {
+  width: 4.5rem;
+  height: 2px;
+  margin-top: 2rem;
+  background: var(--frontpage-gold);
+}
+
+.markPanel {
+  display: grid;
+  min-width: 0;
+  place-items: center;
+  padding: clamp(2.25rem, 5vw, 4rem);
+  background:
+    radial-gradient(circle at 50% 48%, rgba(215, 179, 106, 0.2), transparent 53%),
+    var(--cream-100);
+}
+
+.markFrame {
+  display: grid;
+  width: min(100%, 390px);
+  aspect-ratio: 0.76;
+  place-items: center;
+  overflow: hidden;
+  border: 1px solid rgba(185, 138, 46, 0.55);
+  background: #fff;
+  box-shadow: 0 18px 44px rgba(15, 36, 30, 0.12);
+}
+
+.markFrame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.contacts {
+  width: min(calc(100% - 3rem), 1120px);
+  margin: 0 auto clamp(4rem, 8vw, 6.5rem);
+}
+
+.homeAction {
+  display: flex;
+  justify-content: center;
+  width: min(calc(100% - 3rem), 1120px);
+  margin: 0 auto clamp(2rem, 4vw, 3rem);
+}
+
+.homeButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0.8rem 1.5rem;
+  color: var(--cream-050);
+  background: var(--frontpage-green);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 180ms ease, transform 180ms ease;
+}
+
+.homeButton:hover {
+  background: var(--frontpage-green-light);
+  transform: translateY(-2px);
+}
+
+.homeButton:focus-visible {
+  outline: 3px solid var(--frontpage-gold);
+  outline-offset: 3px;
+}
+
+.contactGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-block: 1px solid rgba(35, 31, 27, 0.14);
+}
+
+.contactItem {
+  min-width: 0;
+  padding: 1.5rem clamp(1rem, 3vw, 2.5rem);
+}
+
+.contactItem + .contactItem {
+  border-left: 1px solid rgba(35, 31, 27, 0.14);
+}
+
+.contactItem h3 {
+  margin: 0;
+  color: var(--green-800);
+  font-family: "Noto Serif Bengali", "Fraunces", serif;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.contactItem p {
+  margin: 0.45rem 0 0;
+  color: var(--charcoal-700);
+  font-size: 0.92rem;
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+
+.visuallyHidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+:global(html[data-lang-active="bn"]) .title,
+:global(html[data-lang-active="bn"]) .contactItem h3 {
+  font-family: "Noto Serif Bengali", "Fraunces", serif;
+  letter-spacing: 0;
+}
+
+@media (max-width: 760px) {
+  .identity {
+    width: min(calc(100% - 2rem), 560px);
+    margin-block: 1.25rem 1.25rem;
+    grid-template-columns: 1fr;
+  }
+
+  .identityCopy {
+    min-height: 240px;
+    padding: 3rem clamp(2rem, 8vw, 4rem) 2.5rem;
+  }
+
+  .title {
+    margin-top: 1rem;
+    font-size: clamp(3.25rem, 12vw, 4.8rem);
+  }
+
+  .goldRule {
+    margin-top: 1.35rem;
+  }
+
+  .markPanel {
+    padding: 2.25rem;
+  }
+
+  .markFrame {
+    width: min(78%, 330px);
+  }
+
+  .contacts {
+    width: min(calc(100% - 2rem), 560px);
+  }
+
+  .homeAction {
+    width: min(calc(100% - 2rem), 560px);
+    margin-bottom: 2rem;
+  }
+
+  .contactGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .contactItem {
+    padding: 1.1rem 0;
+  }
+
+  .contactItem + .contactItem {
+    border-top: 1px solid rgba(35, 31, 27, 0.14);
+    border-left: 0;
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "news": [
+    {
+      "date": "15 Sep 2026",
+      "en": "New research seminar series launched on Nazrul's poetry",
+      "bn": "নজরুলের কবিতা নিয়ে নতুন গবেষণা সেমিনার সিরিজ চালু",
+      "desc_en": "A series of academic seminars exploring critical perspectives on Nazrul's literary works.",
+      "desc_bn": "নজরুলের সাহিত্য কর্মের উপর সমালোচনামূলক দৃষ্টিভঙ্গি অন্বেষণ করার জন্য একটি সেমিনার সিরিজ।"
+    },
+    {
+      "date": "03 Sep 2026",
+      "en": "Collaborative research project with university partners",
+      "bn": "বিশ্ববিদ্যালয় অংশীদারদের সাথে সহযোগিতামূলক গবেষণা প্রকল্প",
+      "desc_en": "Joint research initiative examining Nazrul's influence on contemporary Bengali culture.",
+      "desc_bn": "সমসাময়িক বাংলা সংস্কৃতিতে নজরুলের প্রভাব পরীক্ষা করার যৌথ গবেষণা উদ্যোগ।"
+    },
+    {
+      "date": "18 Aug 2026",
+      "en": "Digital archive project receives international recognition",
+      "bn": "ডিজিটাল আর্কাইভ প্রকল্প আন্তর্জাতিক স্বীকৃতি পায়",
+      "desc_en": "The academy's digitization efforts for Nazrul manuscripts recognized by UNESCO.",
+      "desc_bn": "নজরুল পাণ্ডুলিপি ডিজিটাইজেশনের জন্য একাডেমীর প্রচেষ্টা ইউনেস্কো দ্বারা স্বীকৃত।"
+    },
+    {
+      "date": "05 Aug 2026",
+      "en": "Fellowship opportunities announced for young scholars",
+      "bn": "তরুণ পণ্ডিতদের জন্য বৃত্তির সুযোগ ঘোষণা",
+      "desc_en": "Applications open for research fellowships supporting Nazrul studies.",
+      "desc_bn": "নজরুল অধ্যয়ন সমর্থনকারী গবেষণা বৃত্তির জন্য আবেদন খোলা।"
+    },
+    {
+      "date": "22 Jul 2026",
+      "en": "International conference on South Asian poetry announced",
+      "bn": "দক্ষিণ এশীয় কবিতার উপর আন্তর্জাতিক সম্মেলন ঘোষিত",
+      "desc_en": "Multidisciplinary conference featuring presentations on Nazrul's global legacy.",
+      "desc_bn": "নজরুলের বৈশ্বিক উত্তরাধিকার সম্পর্কে উপস্থাপনা সহ বহুশৃঙ্খল সম্মেলন।"
+    },
+    {
+      "date": "08 Jul 2026",
+      "en": "New publication series on Nazrul's journalism",
+      "bn": "নজরুলের সাংবাদিকতার উপর নতুন প্রকাশনা সিরিজ",
+      "desc_en": "Curated collection of Nazrul's editorial writings now available for scholars.",
+      "desc_bn": "নজরুলের সম্পাদকীয় রচনার সংগৃহীত সংগ্রহ এখন পণ্ডিতদের জন্য উপলব্ধ।"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Academic Updates",
+      "bn": "একাডেমিক আপডেট"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Academic News",
+      "bn": "একাডেমিক খবর"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "Latest research, publications and scholarly initiatives from Nazrul Academy.",
+      "bn": "নজরুল একাডেমীর সর্বশেষ গবেষণা, প্রকাশনা এবং উদ্যোগ।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Text",
+      "en": "News",
+      "bn": "খবর"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Academic News",
+      "description": "Latest academic news, research and scholarly initiatives from Nazrul Academy."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Academic Updates"
+    },
+    {
+      "_n": 2,
+      "_title": "News"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Top banner · Small label",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t2",
+      "_where": "Top banner · Heading",
+      "en": "Founder, Co-founder, Founding Council, and Current Council",
+      "bn": "প্রতিষ্ঠাতা, সহ-প্রতিষ্ঠাতা, প্রতিষ্ঠাকালীন পরিষদ ও বর্তমান পরিষদ"
+    },
+    {
+      "id": "t3",
+      "_where": "Top banner · Paragraph",
+      "en": "The people who founded Nazrul Academy and the executive council that leads it today.",
+      "bn": "যাঁরা নজরুল একাডেমী প্রতিষ্ঠা করেছেন এবং যে নির্বাহী পরিষদ আজ একাডেমী পরিচালনা করছে।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 1 · Text",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t5",
+      "_where": "Section 1 · Heading",
+      "en": "Founder & Co-Founder",
+      "bn": "প্রতিষ্ঠাতা ও সহ-প্রতিষ্ঠাতা"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 1 · Paragraph",
+      "en": "",
+      "bn": ""
+    },
+    {
+      "id": "t7",
+      "_where": "Section 2 · Text",
+      "en": "Current Board",
+      "bn": "বর্তমান পর্ষদ"
+    },
+    {
+      "id": "t8",
+      "_where": "Section 2 · Heading",
+      "en": "Executive Council",
+      "bn": "নজরুল একাডেমী বর্তমান নির্বাহী পরিষদ"
+    },
+    {
+      "id": "t9",
+      "_where": "Section 2 · Paragraph",
+      "en": "",
+      "bn": ""
+    }
+  ],
+  "founders": [
+    {
+      "role_en": "Founder",
+      "role_bn": "প্রতিষ্ঠাতা",
+      "name_en": "Talim Hossain",
+      "name_bn": "কবি তালিম হোসেন",
+      "photo": "/assets/img/uploads/talim-hossain.jpg"
+    },
+    {
+      "role_en": "Co-Founder",
+      "role_bn": "সহ-প্রতিষ্ঠাতা",
+      "name_en": "",
+      "name_bn": "",
+      "photo": ""
+    }
+  ],
+  "board": [
+    {
+      "pos_en": "President",
+      "pos_bn": "সভাপতি",
+      "name_en": "Mosud Mannan",
+      "name_bn": "মসয়ূদ মান্নান",
+      "photo": ""
+    },
+    {
+      "pos_en": "Vice President",
+      "pos_bn": "সহ সভাপতি",
+      "name_en": "Syed Akhtar Yusuf",
+      "name_bn": "সৈয়দ আখতার ইউসুফ",
+      "photo": ""
+    },
+    {
+      "pos_en": "Vice President",
+      "pos_bn": "সহ সভাপতি",
+      "name_en": "Parveen Mushtari",
+      "name_bn": "পারভীন মুশতারী",
+      "photo": ""
+    },
+    {
+      "pos_en": "General Secretary",
+      "pos_bn": "সাধারণ সম্পাদক",
+      "name_en": "Mintu Rahman",
+      "name_bn": "মিন্টু রহমান",
+      "photo": ""
+    },
+    {
+      "pos_en": "Joint Secretary",
+      "pos_bn": "যুগ্ম সম্পাদক",
+      "name_en": "Yasmin Mushtari",
+      "name_bn": "ইয়াসমিন মুশতারী",
+      "photo": ""
+    },
+    {
+      "pos_en": "Treasurer",
+      "pos_bn": "কোষাধ্যক্ষ",
+      "name_en": "Mahtabul Alam",
+      "name_bn": "মাহতাবুল আলম",
+      "photo": ""
+    },
+    {
+      "pos_en": "Cultural Secretary",
+      "pos_bn": "সাংস্কৃতিক সম্পাদক",
+      "name_en": "Syed Hossain Saeed",
+      "name_bn": "সৈয়দ হোসেন সাঈদ",
+      "photo": ""
+    },
+    {
+      "pos_en": "International Affairs Secretary",
+      "pos_bn": "আন্তর্জাতিক বিষয়ক সম্পাদক",
+      "name_en": "Anis Fatema",
+      "name_bn": "আনিস ফাতেমা",
+      "photo": ""
+    },
+    {
+      "pos_en": "Research & Publications Secretary",
+      "pos_bn": "গবেষণা ও প্রকাশনা সম্পাদক",
+      "name_en": "Hasan Alim",
+      "name_bn": "হাসান আলীম",
+      "photo": ""
+    },
+    {
+      "pos_en": "Joint Research Secretary",
+      "pos_bn": "যুগ্ম গবেষণা সম্পাদক",
+      "name_en": "Nasir Helal",
+      "name_bn": "নাসির হেলাল",
+      "photo": ""
+    },
+    {
+      "pos_en": "Assistant Research Secretary",
+      "pos_bn": "সহ গবেষণা সম্পাদক",
+      "name_en": "Siddika Sarkar Smriti",
+      "name_bn": "সিদ্দিকা সরকার স্মৃতি",
+      "photo": ""
+    },
+    {
+      "pos_en": "Publicity Secretary",
+      "pos_bn": "প্রচার সম্পাদক",
+      "name_en": "Reza Matin",
+      "name_bn": "রেজা মতিন",
+      "photo": ""
+    },
+    {
+      "pos_en": "Assistant Publicity Secretary",
+      "pos_bn": "সহ প্রচার সম্পাদক",
+      "name_en": "Adv. Imam Hossain Chanchal",
+      "name_bn": "এড. ইমাম হোসেন চঞ্চল",
+      "photo": ""
+    },
+    {
+      "pos_en": "Member",
+      "pos_bn": "সদস্য",
+      "name_en": "Engr. M. Atiqur Rahman",
+      "name_bn": "ইঞ্জি. এম আতিকুর রহমান",
+      "photo": ""
+    },
+    {
+      "pos_en": "Member",
+      "pos_bn": "সদস্য",
+      "name_en": "Mohammad Abdul Hannan",
+      "name_bn": "মোহাম্মদ আবদুল হান্নান",
+      "photo": ""
+    },
+    {
+      "pos_en": "Member",
+      "pos_bn": "সদস্য",
+      "name_en": "Shirin Akter",
+      "name_bn": "শিরিন আক্তার",
+      "photo": ""
+    },
+    {
+      "pos_en": "Member",
+      "pos_bn": "সদস্য",
+      "name_en": "Nurjahan Begum",
+      "name_bn": "নূরজাহান বেগম",
+      "photo": ""
+    },
+    {
+      "pos_en": "Member",
+      "pos_bn": "সদস্য",
+      "name_en": "Idris Ali",
+      "name_bn": "ইদ্রিস আলী",
+      "photo": ""
+    },
+    {
+      "pos_en": "Member",
+      "pos_bn": "সদস্য",
+      "name_en": "Abdul Muqit Chowdhury",
+      "name_bn": "আবদুল মুকিত চৌধুরী",
+      "photo": ""
+    },
+    {
+      "pos_en": "Member",
+      "pos_bn": "সদস্য",
+      "name_en": "Shamima Chowdhury",
+      "name_bn": "শামীমা চৌধুরী",
+      "photo": ""
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Founder & Co-Founder"
+    },
+    {
+      "_n": 2,
+      "_title": "Executive Council (current board)"
+    }
+  ],
+  "meta": [
+    {
+      "title": "Founders & Board",
+      "description": "The founders of Nazrul Academy and its current executive council."
+    }
+  ]
+}

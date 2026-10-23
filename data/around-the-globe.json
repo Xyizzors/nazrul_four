@@ -1,0 +1,118 @@
+{
+  "regions": [
+    {
+      "country_en": "United Kingdom",
+      "country_bn": "যুক্তরাজ্য",
+      "city_en": "London",
+      "city_bn": "লন্ডন",
+      "status_en": "Active Partnership",
+      "status_bn": "সক্রিয় অংশীদারিত্ব"
+    },
+    {
+      "country_en": "United States",
+      "country_bn": "যুক্তরাষ্ট্র",
+      "city_en": "New York",
+      "city_bn": "নিউ ইয়র্ক",
+      "status_en": "Collaborative Programs",
+      "status_bn": "সহযোগিতামূলক কর্মসূচি"
+    },
+    {
+      "country_en": "India",
+      "country_bn": "ভারত",
+      "city_en": "Kolkata",
+      "city_bn": "কলকাতা",
+      "status_en": "Cultural Exchange",
+      "status_bn": "সাংস্কৃতিক বিনিময়"
+    },
+    {
+      "country_en": "Japan",
+      "country_bn": "জাপান",
+      "city_en": "Tokyo",
+      "city_bn": "টোকিও",
+      "status_en": "Research Initiatives",
+      "status_bn": "গবেষণা উদ্যোগ"
+    },
+    {
+      "country_en": "France",
+      "country_bn": "ফ্রান্স",
+      "city_en": "Paris",
+      "city_bn": "প্যারিস",
+      "status_en": "International Recognition",
+      "status_bn": "আন্তর্জাতিক স্বীকৃতি"
+    },
+    {
+      "country_en": "Germany",
+      "country_bn": "জার্মানি",
+      "city_en": "Berlin",
+      "city_bn": "বার্লিন",
+      "status_en": "Academic Networks",
+      "status_bn": "একাডেমিক নেটওয়ার্ক"
+    }
+  ],
+  "texts": [
+    {
+      "id": "t1",
+      "_where": "Section 1 · Small label",
+      "en": "Global Reach",
+      "bn": "বৈশ্বিক সংযোগ"
+    },
+    {
+      "id": "t2",
+      "_where": "Section 1 · Heading",
+      "en": "Around the Globe",
+      "bn": "বিশ্বজুড়ে"
+    },
+    {
+      "id": "t3",
+      "_where": "Section 1 · Paragraph",
+      "en": "Nazrul Academy's international partnerships and cultural collaborations.",
+      "bn": "নজরুল একাডেমীর আন্তর্জাতিক অংশীদারিত্ব এবং সাংস্কৃতিক সহযোগিতা।"
+    },
+    {
+      "id": "t4",
+      "_where": "Section 2 · Paragraph",
+      "en": "Nazrul Academy maintains partnerships with cultural institutions, universities and organizations across six continents, promoting Bengali literature and Nazrul's legacy worldwide.",
+      "bn": "নজরুল একাডেমী ছয়টি মহাদেশে সাংস্কৃতিক প্রতিষ্ঠান, বিশ্ববিদ্যালয় এবং সংস্থাগুলির সাথে অংশীদারিত্ব বজায় রাখে, বাংলা সাহিত্য এবং নজরুলের উত্তরাধিকার বিশ্বব্যাপী প্রচার করে।"
+    },
+    {
+      "id": "t5",
+      "_where": "Section 2 · Text",
+      "en": "International Presence",
+      "bn": "আন্তর্জাতিক উপস্থিতি"
+    },
+    {
+      "id": "t6",
+      "_where": "Section 3 · Paragraph",
+      "en": "Through strategic partnerships with international institutions, Nazrul Academy facilitates cultural exchanges, academic research collaborations, and the promotion of South Asian literature on the global stage. Our network of supporters and collaborators continues to grow, strengthening Nazrul's legacy beyond borders.",
+      "bn": "আন্তর্জাতিক প্রতিষ্ঠানগুলির সাথে কৌশলগত অংশীদারিত্বের মাধ্যমে, নজরুল একাডেমী সাংস্কৃতিক বিনিময়, একাডেমিক গবেষণা সহযোগিতা এবং বৈশ্বিক পর্যায়ে দক্ষিণ এশীয় সাহিত্য প্রচার সহজতর করে। আমাদের সমর্থক এবং সহযোগীদের নেটওয়ার্ক ক্রমাগত বৃদ্ধি পাচ্ছে, সীমানা অতিক্রম করে নজরুলের উত্তরাধিকার শক্তিশালী করছে।"
+    },
+    {
+      "id": "t7",
+      "_where": "Section 3 · Text",
+      "en": "Global Collaborations",
+      "bn": "বৈশ্বিক সহযোগিতা"
+    }
+  ],
+  "images": [],
+  "extras": [],
+  "meta": [
+    {
+      "title": "Around the Globe",
+      "description": "Nazrul Academy's international partnerships and cultural collaborations."
+    }
+  ],
+  "sections": [
+    {
+      "_n": 1,
+      "_title": "Global Reach"
+    },
+    {
+      "_n": 2,
+      "_title": "International Presence"
+    },
+    {
+      "_n": 3,
+      "_title": "Global Collaborations"
+    }
+  ]
+}
